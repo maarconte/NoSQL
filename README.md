@@ -30,8 +30,14 @@ db.films.find({entrees: {$exists: true}}).forEach(function(obj) {
 db.getCollection('films').find({nationalité:"ETATS UNIS"}).sort({"entrées (millions)": -1})
 ```
 - Trouver les films qui ont fait plus de 5 millions d'entrées
+```sh
+db.films.find({entrees: {$gt: 4.99}}).sort({entrees: -1})
+```
 - Trier les films par date
-- Trier par nationalités
+- Trier les films par nationalités
+```sh
+db.films.find({},{nationalité: 1, titre: 1}).sort({nationalité: 1})
+```
 - Nombre d'entrées par année
 - Top 3 des films qui ont fait le plus d'entrées
 - Top 3 des films par pays 
