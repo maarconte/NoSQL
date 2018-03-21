@@ -18,6 +18,13 @@ mongoimport --db millions --collection films ./db_millions.json --jsonArray
 ```
 
 ## Requêtes
+- Transformer les entrées de type string en float
+```sh
+db.films.find({entrees: {$exists: true}}).forEach(function(obj) { 
+    obj.entrees = parseFloat(obj.entrees);
+    db.films.save(obj);
+});
+```
 - Les meilleures entrées des films américains
 ```sh
 db.getCollection('films').find({nationalité:"ETATS UNIS"}).sort({"entrées (millions)": -1})
@@ -33,11 +40,3 @@ db.getCollection('films').find({nationalité:"ETATS UNIS"}).sort({"entrées (mil
 - Le nombre d'entrées en moyenne par mois
 - Le nombre de films sortis par mois
 - La moyenne de nombre de films sortis par mois
-
-var cursor = db.films.find(); 
-while (cursor.hasNext()) { 
-  var doc = cursor.next(); 
-  db.films.update({_id : doc._id}, {$set : {"entrée (millions)" : new NumberInt('doc.entrées (millions)') }});
-}
-
-db.films.updateMany({},{ $rename: { 'entrées (millions)': 'entrees'} } )
