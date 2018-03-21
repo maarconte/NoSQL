@@ -25,9 +25,12 @@ db.films.find({entrees: {$exists: true}}).forEach(function(obj) {
     db.films.save(obj);
 });
 ```
+- Transformer les noms de pays en minuscule en majuscule (France -> FRANCE)
+- Afficher tous les Harry Potter
+- Ajouter le genre "Fantastique" aux films Harry Potter
 - Les meilleures entrées des films américains
 ```sh
-db.getCollection('films').find({nationalité:"ETATS UNIS"}).sort({"entrées (millions)": -1})
+db.films.find({nationalité:"ETATS UNIS"}).sort({"entrees": -1})
 ```
 - Trouver les films qui ont fait plus de 5 millions d'entrées
 ```sh
