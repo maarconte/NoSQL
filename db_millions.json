@@ -1,0 +1,1973 @@
+[{
+    "_id": "5ab267ca78a489d3423acfc4",
+    "titre": "CHORISTES (LES)",
+    "nationalité": "FRANCE / SUISSE",
+    "sortie": "17/03/04",
+    "entrees": "8.43"
+} , {
+    "_id": "5ab267ca78a489d3423acfc5",
+    "titre": "PODIUM",
+    "nationalité": "FRANCE / BELGIQUE",
+    "sortie": "11/02/04",
+    "entrees": "3.54"
+} , {
+    "_id": "5ab267ca78a489d3423acfc6",
+    "titre": "DEUX FRERES",
+    "nationalité": "FRANCE / GRANDE BRETAGNE",
+    "sortie": "07/04/04",
+    "entrees": "3.31"
+} , {
+    "_id": "5ab267ca78a489d3423acfc7",
+    "titre": "GANG DE REQUINS",
+    "nationalité": "ETATS UNIS",
+    "sortie": "13/10/04",
+    "entrees": "2.97"
+} , {
+    "_id": "5ab267ca78a489d3423acfc8",
+    "titre": "11 COMMANDEMENTS (LES)",
+    "nationalité": "FRANCE",
+    "sortie": "04/02/04",
+    "entrees": "2.96"
+} , {
+    "_id": "5ab267ca78a489d3423acfc9",
+    "titre": "JOUR D'APRES (LE)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "26/05/04",
+    "entrees": "2.68"
+} , {
+    "_id": "5ab267ca78a489d3423acfca",
+    "titre": "SPIDER-MAN 2",
+    "nationalité": "ETATS UNIS",
+    "sortie": "14/07/04",
+    "entrees": "5.23"
+} , {
+    "_id": "5ab267ca78a489d3423acfcb",
+    "titre": "ENQUETE CORSE (L')",
+    "nationalité": "FRANCE",
+    "sortie": "06/10/04",
+    "entrees": "2.54"
+} , {
+    "_id": "5ab267ca78a489d3423acfcc",
+    "titre": "INDESTRUCTIBLES (LES)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "24/11/04",
+    "entrees": "4.92"
+} , {
+    "_id": "5ab267ca78a489d3423acfcd",
+    "titre": "FAHRENHEIT 9/11",
+    "nationalité": "ETATS UNIS",
+    "sortie": "07/07/04",
+    "entrees": "2.33"
+} , {
+    "_id": "5ab267ca78a489d3423acfce",
+    "titre": "VILLAGE (LE)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "18/08/04",
+    "entrees": "2.36"
+} , {
+    "_id": "5ab267ca78a489d3423acfcf",
+    "titre": "TROIE",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "13/05/04",
+    "entrees": "2.73"
+} , {
+    "_id": "5ab267ca78a489d3423acfd0",
+    "titre": "I. ROBOT",
+    "nationalité": "ETATS UNIS",
+    "sortie": "28/07/04",
+    "entrees": "2.09"
+} , {
+    "_id": "5ab267ca78a489d3423acfd1",
+    "titre": "RIVIERES POURPRES 2 (LES)",
+    "nationalité": "FRANCE / ITALIE / GRANDE BRETAGNE",
+    "sortie": "18/02/04",
+    "entrees": "2.08"
+} , {
+    "_id": "5ab267ca78a489d3423acfd2",
+    "titre": "MARIAGES !",
+    "nationalité": "FRANCE",
+    "sortie": "21/04/04",
+    "entrees": "1.96"
+} , {
+    "_id": "5ab267ca78a489d3423acfd3",
+    "titre": "DOUBLE ZERO",
+    "nationalité": "FRANCE / GRANDE BRETAGNE",
+    "sortie": "16/06/04",
+    "entrees": "1.80"
+} , {
+    "_id": "5ab267ca78a489d3423acfd4",
+    "titre": "36 QUAI DES ORFEVRES",
+    "nationalité": "FRANCE",
+    "sortie": "24/11/04",
+    "entrees": "1.68"
+} , {
+    "_id": "5ab267ca78a489d3423acfd5",
+    "titre": "DALTON (LES)",
+    "nationalité": "FRANCE / ALLEMAGNE / ESPAGNE",
+    "sortie": "08/12/04",
+    "entrees": "1.68"
+} , {
+    "_id": "5ab267ca78a489d3423acfd6",
+    "titre": "DERNIER SAMOURAI (LE)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "14/01/04",
+    "entrees": "2.20"
+} , {
+    "_id": "5ab267ca78a489d3423acfd7",
+    "titre": "RRRRRRR !!!",
+    "nationalité": "FRANCE",
+    "sortie": "28/01/04",
+    "entrees": "1.67"
+} , {
+    "_id": "5ab267ca78a489d3423acfd8",
+    "titre": "COMME UNE IMAGE",
+    "nationalité": "FRANCE / ITALIE",
+    "sortie": "22/09/04",
+    "entrees": "1.59"
+} , {
+    "_id": "5ab267ca78a489d3423acfd9",
+    "titre": "ROI ARTHUR (LE)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "04/08/04",
+    "entrees": "1.60"
+} , {
+    "_id": "5ab267ca78a489d3423acfda",
+    "titre": "RETOUR DU ROI (LE)",
+    "nationalité": "NOUVELLE ZELANDE",
+    "sortie": "17/12/03",
+    "entrees": "2.22"
+} , {
+    "_id": "5ab267ca78a489d3423acfdb",
+    "titre": "PASSION DU CHRIST (LA)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "31/03/04",
+    "entrees": "1.54"
+} , {
+    "_id": "5ab267ca78a489d3423acfdc",
+    "titre": "OCEAN'S TWELVE",
+    "nationalité": "ETATS UNIS",
+    "sortie": "15/12/04",
+    "entrees": "2.11"
+} , {
+    "_id": "5ab267ca78a489d3423acfdd",
+    "titre": "HARRY POTTER ET LE PRISONNIER D'AZKABAN",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "02/06/04",
+    "entrees": "7.08"
+} , {
+    "_id": "5ab267ca78a489d3423acfde",
+    "titre": "BRIDGET JONES : L'AGE DE RAISON",
+    "nationalité": "ETATS UNIS",
+    "sortie": "08/12/04",
+    "entrees": "1.53"
+} , {
+    "_id": "5ab267ca78a489d3423acfdf",
+    "titre": "KILL BILL VOLUME 2",
+    "nationalité": "ETATS UNIS",
+    "sortie": "17/05/04",
+    "entrees": "1.47"
+} , {
+    "_id": "5ab267ca78a489d3423acfe0",
+    "titre": "MALABAR PRINCESS",
+    "nationalité": "FRANCE",
+    "sortie": "03/03/04",
+    "entrees": "1.46"
+
+} , {
+    "_id": "5ab267ca78a489d3423acfe1",
+    "titre": "COLLATERAL",
+    "nationalité": "ETATS UNIS",
+    "sortie": "29/09/04",
+    "entrees": "1.45"
+} , {
+    "_id": "5ab267ca78a489d3423acfe2",
+    "titre": "PETER PAN",
+    "nationalité": "ETATS UNIS",
+    "sortie": "04/02/04",
+    "entrees": "1.42"
+} , {
+    "_id": "5ab267ca78a489d3423acfe3",
+    "titre": "STARSKY ET HUTCH",
+    "nationalité": "ETATS UNIS",
+    "sortie": "21/04/04",
+    "entrees": "1.51"
+} , {
+    "_id": "5ab267ca78a489d3423acfe4",
+    "titre": "POLE EXPRESS (LE)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "01/12/04",
+    "entrees": "1.37"
+} , {
+    "_id": "5ab267ca78a489d3423acfe5",
+    "titre": "SCOOBY-DOO 2 - LES MONSTRES SE DECHAINENT",
+    "nationalité": "ETATS UNIS",
+    "sortie": "07/04/04",
+    "entrees": "1.37"
+} , {
+    "_id": "5ab267ca78a489d3423acfe6",
+    "titre": "LOST IN TRANSLATION",
+    "nationalité": "ETATS UNIS",
+    "sortie": "07/01/04",
+    "entrees": "1.34"
+} , {
+    "_id": "5ab267ca78a489d3423acfe7",
+    "titre": "MONDE DE NEMO (LE)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "26/11/03",
+    "entrees": "1.29"
+} , {
+    "_id": "5ab267ca78a489d3423acfe8",
+    "titre": "GARFIELD. LE FILM",
+    "nationalité": "ETATS UNIS",
+    "sortie": "11/08/04",
+    "entrees": "1.22"
+} , {
+    "_id": "5ab267ca78a489d3423acfe9",
+    "titre": "ARSENE LUPIN",
+    "nationalité": "FRANCE / GRANDE BRETAGNE / ESPAGNE / ITALIE",
+    "sortie": "13/10/04",
+    "entrees": "1.18"
+} , {
+    "_id": "5ab267ca78a489d3423acfea",
+    "titre": "VIPERE AU POING",
+    "nationalité": "FRANCE / GRANDE BRETAGNE",
+    "sortie": "06/10/04",
+    "entrees": "1.17"
+} , {
+    "_id": "5ab267ca78a489d3423acfeb",
+    "titre": "LADYKILLERS",
+    "nationalité": "ETATS UNIS",
+    "sortie": "09/06/04",
+    "entrees": "1.25"
+} , {
+    "_id": "5ab267ca78a489d3423acfec",
+    "titre": "BIG FISH",
+    "nationalité": "ETATS UNIS",
+    "sortie": "03/03/04",
+    "entrees": "1.14"
+} , {
+    "_id": "5ab267ca78a489d3423acfed",
+    "titre": "GOTHIKA",
+    "nationalité": "ETATS UNIS",
+    "sortie": "07/01/04",
+    "entrees": "1.52"
+} , {
+    "_id": "5ab267ca78a489d3423acfee",
+    "titre": "VAN HELSING",
+    "nationalité": "ETATS UNIS",
+    "sortie": "05/05/04",
+    "entrees": "1.52"
+} , {
+    "_id": "5ab267ca78a489d3423acfef",
+    "titre": "UN LONG DIMANCHE DE FIANCAILLES",
+    "nationalité": "FRANCE",
+    "sortie": "27/10/04",
+    "entrees": "4.33"
+} , {
+    "_id": "5ab267ca78a489d3423acff0",
+    "titre": "TERMINAL (LE)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "15/09/04",
+    "entrees": "1.14"
+} , {
+    "_id": "5ab267ca78a489d3423acff1",
+    "titre": "MANOIR HANTE ET LES 999 FANTOMES (LE)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "18/02/04",
+    "entrees": "1.08"
+} , {
+    "_id": "5ab267ca78a489d3423acff2",
+    "titre": "MORT DANS LA PEAU (LA)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "08/09/04",
+    "entrees": "1.14"
+} , {
+    "_id": "5ab267ca78a489d3423acff3",
+    "titre": "DERNIER TRAPPEUR (LE)",
+    "nationalité": "FRANCE / CANADA / ALLEMAGNE / ITALIE",
+    "sortie": "15/12/04",
+    "entrees": "1.04"
+} , {
+    "_id": "5ab267ca78a489d3423acff4",
+    "titre": "MAUVAISE EDUCATION (LA)",
+    "nationalité": "ESPAGNE",
+    "sortie": "12/05/04",
+    "entrees": "1.07"
+} , {
+    "_id": "5ab267ca78a489d3423acff5",
+    "titre": "SHREK 2",
+    "nationalité": "ETATS UNIS",
+    "sortie": "23/06/04",
+    "entrees": "7.14"
+} , {
+    "_id": "5ab267ca78a489d3423acff6",
+    "titre": "FRERE DES OURS",
+    "nationalité": "ETATS UNIS",
+    "sortie": "28/01/04",
+    "entrees": "3.53"
+} , {
+    "_id": "5ab267fc78a489d3423ad007",
+    "titre": "STAR WARS : EPISODE III - LA REVANCHE DES SITHS",
+    "nationalité": "ETATS UNIS",
+    "sortie": "18/05/05",
+    "entrees": "7.20"
+} , {
+    "_id": "5ab267fc78a489d3423ad008",
+    "titre": "HARRY POTTER ET LA COUPE DE FEU",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "30/11/05",
+    "entrees": "7.04"
+
+} , {
+    "_id": "5ab267fc78a489d3423ad009",
+    "titre": "BRICE DE NICE",
+    "nationalité": "FRANCE",
+    "sortie": "06/04/05",
+    "entrees": "4.43"
+} , {
+    "_id": "5ab267fc78a489d3423ad00a",
+    "titre": "CHARLIE ET LA CHOCOLATERIE",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "13/07/05",
+    "entrees": "4.25"
+} , {
+    "_id": "5ab267fc78a489d3423ad00b",
+    "titre": "GUERRE DES MONDES (LA)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "06/07/05",
+    "entrees": "3.89"
+} , {
+    "_id": "5ab267fc78a489d3423ad00c",
+    "titre": "MILLION DOLLAR BABY",
+    "nationalité": "ETATS UNIS",
+    "sortie": "23/03/05",
+    "entrees": "3.15"
+} , {
+    "_id": "5ab267fc78a489d3423ad00d",
+    "titre": "MADAGASCAR",
+    "nationalité": "ETATS UNIS",
+    "sortie": "22/06/05",
+    "entrees": "3.18"
+} , {
+    "_id": "5ab267fc78a489d3423ad00e",
+    "titre": "MONDE DE NARNIA (LE) - CHAPITRE 1 - LE LION. LA SORCIERE BLANCHE ET L'ARMOIRE MAGIQUE",
+    "nationalité": "ETATS UNIS",
+    "sortie": "21/12/05",
+    "entrees": "2.87"
+
+} , {
+    "_id": "5ab267fc78a489d3423ad00f",
+    "titre": "MR & MRS SMITH",
+    "nationalité": "ETATS UNIS",
+    "sortie": "27/07/05",
+    "entrees": "2.96"
+} , {
+    "_id": "5ab267fc78a489d3423ad010",
+    "titre": "LEGENDE DE ZORRO (LA)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "26/10/05",
+    "entrees": "2.15"
+
+} , {
+    "_id": "5ab267fc78a489d3423ad011",
+    "titre": "HITCH EXPERT EN SEDUCTION",
+    "nationalité": "ETATS UNIS",
+    "sortie": "16/03/05",
+    "entrees": "2.06"
+} , {
+    "_id": "5ab267fc78a489d3423ad012",
+    "titre": "POUPEES RUSSES (LES)",
+    "nationalité": "FRANCE / GRANDE BRETAGNE",
+    "sortie": "15/06/05",
+    "entrees": "2.84"
+} , {
+    "_id": "5ab267fc78a489d3423ad013",
+    "titre": "MARCHE DE L'EMPEREUR (LA)",
+    "nationalité": "FRANCE",
+    "sortie": "26/01/05",
+    "entrees": "1.86"
+} , {
+    "_id": "5ab267fc78a489d3423ad014",
+    "titre": "JOYEUX NOEL",
+    "nationalité": "FRANCE / ALLEMAGNE / GRANDE BRETAGNE / BELGIQUE / ROUMANIE",
+    "sortie": "09/11/05",
+    "entrees": "1.86"
+} , {
+    "_id": "5ab267fc78a489d3423ad015",
+    "titre": "ESPACE DETENTE",
+    "nationalité": "FRANCE",
+    "sortie": "02/02/05",
+    "entrees": "1.77"
+} , {
+    "_id": "5ab267fc78a489d3423ad016",
+    "titre": "AVIATOR",
+    "nationalité": "ETATS UNIS",
+    "sortie": "26/01/05",
+    "entrees": "1.68"
+} , {
+    "_id": "5ab267fc78a489d3423ad017",
+    "titre": "MON BEAU PERE. MES PARENTS ET MOI",
+    "nationalité": "ETATS UNIS",
+    "sortie": "16/02/05",
+    "entrees": "1.66"
+} , {
+    "_id": "5ab267fc78a489d3423ad018",
+    "titre": "RAY",
+    "nationalité": "ETATS UNIS",
+    "sortie": "23/02/05",
+    "entrees": "1.59"
+} , {
+    "_id": "5ab267fc78a489d3423ad019",
+    "titre": "THE ISLAND",
+    "nationalité": "ETATS UNIS",
+    "sortie": "17/08/05",
+    "entrees": "1.55"
+} , {
+    "_id": "5ab267fc78a489d3423ad01a",
+    "titre": "KING KONG",
+    "nationalité": "ETATS UNIS",
+    "sortie": "14/12/05",
+    "entrees": "2.77"
+} , {
+    "_id": "5ab267fc78a489d3423ad01b",
+    "titre": "OLIVER TWIST",
+    "nationalité": "FRANCE / REPUBLIQUE TCHEQUE / GRANDE BRETAGNE",
+    "sortie": "19/10/05",
+    "entrees": "1.45"
+} , {
+    "_id": "5ab267fc78a489d3423ad01c",
+    "titre": "MATCH POINT",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "26/10/05",
+    "entrees": "1.45"
+} , {
+    "_id": "5ab267fc78a489d3423ad01d",
+    "titre": "FRERES GRIMM (LES)",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "05/10/05",
+    "entrees": "1.49"
+} , {
+    "_id": "5ab267fc78a489d3423ad01e",
+    "titre": "KIRIKOU ET LES BETES SAUVAGES",
+    "nationalité": "FRANCE",
+    "sortie": "07/12/05",
+    "entrees": "1.37"
+
+} , {
+    "_id": "5ab267fc78a489d3423ad01f",
+    "titre": "TOUT POUR PLAIRE",
+    "nationalité": "FRANCE / BELGIQUE",
+    "sortie": "16/03/05",
+    "entrees": "1.44"
+} , {
+    "_id": "5ab267fc78a489d3423ad020",
+    "titre": "CHICKEN LITTLE",
+    "nationalité": "ETATS UNIS",
+    "sortie": "07/12/05",
+    "entrees": "2.03"
+} , {
+    "_id": "5ab267fc78a489d3423ad021",
+    "titre": "NOCES FUNEBRES DE TIM BURTON (LES)",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "19/10/05",
+    "entrees": "1.36"
+} , {
+    "_id": "5ab267fc78a489d3423ad022",
+    "titre": "CHATEAU AMBULANT (LE)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "12/01/05",
+    "entrees": "1.31"
+} , {
+    "_id": "5ab267fc78a489d3423ad023",
+    "titre": "COCCINELLE REVIENT (LA)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "03/08/05",
+    "entrees": "1.31"
+} , {
+    "_id": "5ab267fc78a489d3423ad024",
+    "titre": "KINGDOM OF HEAVEN",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "04/05/05",
+    "entrees": "1.28"
+} , {
+    "_id": "5ab267fc78a489d3423ad025",
+    "titre": "CHEVALIERS DU CIEL (LES)",
+    "nationalité": "FRANCE",
+    "sortie": "09/11/05",
+    "entrees": "1.28"
+} , {
+    "_id": "5ab267fc78a489d3423ad026",
+    "titre": "MON PETIT DOIGT M'A DIT",
+    "nationalité": "FRANCE",
+    "sortie": "13/04/05",
+    "entrees": "1.26"
+} , {
+    "_id": "5ab267fc78a489d3423ad027",
+    "titre": "TRANSPORTEUR 2 (LE)",
+    "nationalité": "FRANCE",
+    "sortie": "03/08/05",
+    "entrees": "1.23"
+} , {
+    "_id": "5ab267fc78a489d3423ad028",
+    "titre": "CONSTANTINE",
+    "nationalité": "ETATS UNIS",
+    "sortie": "16/02/05",
+    "entrees": "1.22"
+} , {
+    "_id": "5ab267fc78a489d3423ad029",
+    "titre": "WALLACE ET GROMIT LE MYSTERE DU LAPIN-GAROU",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "12/10/05",
+    "entrees": "2.23"
+} , {
+    "_id": "5ab267fc78a489d3423ad02a",
+    "titre": "BOUDU",
+    "nationalité": "FRANCE",
+    "sortie": "09/03/05",
+    "entrees": "1.20"
+} , {
+    "_id": "5ab267fc78a489d3423ad02b",
+    "titre": "DERNIER TRAPPEUR (LE)",
+    "nationalité": "FRANCE / CANADA / ALLEMAGNE / ITALIE",
+    "sortie": "15/12/04",
+    "entrees": "1.19"
+} , {
+    "_id": "5ab267fc78a489d3423ad02c",
+    "titre": "VAILLANT PIGEON DE COMBAT",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "30/03/05",
+    "entrees": "1.16"
+} , {
+    "_id": "5ab267fc78a489d3423ad02d",
+    "titre": "PALAIS ROYAL!",
+    "nationalité": "FRANCE / GRANDE BRETAGNE",
+    "sortie": "23/11/05",
+    "entrees": "2.38"
+} , {
+    "_id": "5ab267fc78a489d3423ad02e",
+    "titre": "ROBOTS",
+    "nationalité": "ETATS UNIS",
+    "sortie": "06/04/05",
+    "entrees": "1.10"
+} , {
+    "_id": "5ab267fc78a489d3423ad02f",
+    "titre": "DE BATTRE MON CŒUR S'EST ARRETE",
+    "nationalité": "FRANCE",
+    "sortie": "16/03/05",
+    "entrees": "1.01"
+} , {
+    "_id": "5ab267fc78a489d3423ad030",
+    "titre": "IZNOGOUD",
+    "nationalité": "FRANCE",
+    "sortie": "09/02/05",
+    "entrees": "2.54"
+} , {
+    "_id": "5ab267fc78a489d3423ad031",
+    "titre": "BATMAN BEGINS",
+    "nationalité": "ETATS UNIS",
+    "sortie": "15/06/05",
+    "entrees": "1.49"
+} , {
+    "_id": "5ab267fc78a489d3423ad032",
+    "titre": "ALEXANDRE",
+    "nationalité": "GRANDE BRETAGNE / FRANCE / PAYS BAS",
+    "sortie": "05/01/05",
+    "entrees": "1.25"
+} , {
+    "_id": "5ab267fc78a489d3423ad033",
+    "titre": "SIN CITY",
+    "nationalité": "ETATS UNIS",
+    "sortie": "01/06/05",
+    "entrees": "1.23"
+} , {
+    "_id": "5ab267fc78a489d3423ad034",
+    "titre": "4 FANTASTIQUES (LES)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "20/07/05",
+    "entrees": "2.22"
+} , {
+    "_id": "5ab2680978a489d3423ad03c",
+    "titre": "BRONZÉS 3 (LES) - AMIS POUR LA VIE",
+    "nationalité": "FRANCE",
+    "sortie": "01/02/06",
+    "entrees": "10.23"
+} , {
+    "_id": "5ab2680978a489d3423ad03d",
+    "titre": "PIRATES DES CARAIBES. LE SECRET DU COFFRE MAUDIT",
+    "nationalité": "ETATS UNIS",
+    "sortie": "02/08/06",
+    "entrees": "6.51"
+} , {
+    "_id": "5ab2680978a489d3423ad03e",
+    "titre": "CAMPING",
+    "nationalité": "FRANCE",
+    "sortie": "26/04/06",
+    "entrees": "5.47"
+} , {
+    "_id": "5ab2680978a489d3423ad03f",
+    "titre": "DA VINCI CODE",
+    "nationalité": "ETATS UNIS",
+    "sortie": "17/05/06",
+    "entrees": "4.16"
+} , {
+    "_id": "5ab2680978a489d3423ad040",
+    "titre": "ARTHUR ET LES MINIMOYS (EX : ARTHUR)",
+    "nationalité": "FRANCE",
+    "sortie": "13/12/06",
+    "entrees": "4.12"
+} , {
+    "_id": "5ab2680978a489d3423ad041",
+    "titre": "JE VOUS TROUVE TRES BEAU (EX: LA FILLE DE L'EST)",
+    "nationalité": "FRANCE",
+    "sortie": "11/01/06",
+    "entrees": "3.51"
+} , {
+    "_id": "5ab2680978a489d3423ad042",
+    "titre": "PRETE-MOI TA MAIN (EX : RENT A WIFE)",
+    "nationalité": "FRANCE",
+    "sortie": "01/11/06",
+    "entrees": "3.45"
+} , {
+    "_id": "5ab2680978a489d3423ad043",
+    "titre": "DOUBLURE (LA)",
+    "nationalité": "FRANCE / ITALIE",
+    "sortie": "29/03/06",
+    "entrees": "3.08"
+} , {
+    "_id": "5ab2680978a489d3423ad044",
+    "titre": "AGE DE GLACE 2 (L')",
+    "nationalité": "ETATS UNIS",
+    "sortie": "05/04/06",
+    "entrees": "6.62"
+} , {
+    "_id": "5ab2680978a489d3423ad045",
+    "titre": "INDIGÈNES",
+    "nationalité": "FRANCE / BELGIQUE",
+    "sortie": "27/09/06",
+    "entrees": "3.02"
+} , {
+    "_id": "5ab2680978a489d3423ad046",
+    "titre": "NE LE DIS À PERSONNE",
+    "nationalité": "FRANCE",
+    "sortie": "01/11/06",
+    "entrees": "2.73"
+} , {
+    "_id": "5ab2680978a489d3423ad047",
+    "titre": "CARS QUATRE ROUES",
+    "nationalité": "ETATS UNIS",
+    "sortie": "14/06/06",
+    "entrees": "2.02"
+} , {
+    "_id": "5ab2680978a489d3423ad048",
+    "titre": "FAUTEUILS D'ORCHESTRE",
+    "nationalité": "FRANCE",
+    "sortie": "15/02/06",
+    "entrees": "1.93"
+} , {
+    "_id": "5ab2680978a489d3423ad049",
+    "titre": "MISSION : IMPOSSIBLE 3",
+    "nationalité": "ETATS UNIS",
+    "sortie": "03/05/06",
+    "entrees": "1.91"
+} , {
+    "_id": "5ab2680978a489d3423ad04a",
+    "titre": "X-MEN L'AFFRONTEMENT FINAL",
+    "nationalité": "ETATS UNIS",
+    "sortie": "24/05/06",
+    "entrees": "2.81"
+} , {
+    "_id": "5ab2680978a489d3423ad04b",
+    "titre": "DIABLE S'HABILLE EN PRADA (LE)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "27/09/06",
+    "entrees": "2.16"
+} , {
+    "_id": "5ab2680978a489d3423ad04c",
+    "titre": "ERAGON",
+    "nationalité": "ETATS UNIS",
+    "sortie": "20/12/06",
+    "entrees": "1.58"
+} , {
+    "_id": "5ab2680978a489d3423ad04d",
+    "titre": "AZUR ET ASMAR",
+    "nationalité": "FRANCE / BELGIQUE / ESPAGNE / ITALIE",
+    "sortie": "25/10/06",
+    "entrees": "1.61"
+} , {
+    "_id": "5ab2680978a489d3423ad04e",
+    "titre": "BAMBI 2",
+    "nationalité": "ETATS UNIS",
+    "sortie": "01/02/06",
+    "entrees": "1.85"
+} , {
+    "_id": "5ab2680978a489d3423ad04f",
+    "titre": "MIAMI VICE - DEUX FLICS A MIAMI",
+    "nationalité": "ETATS UNIS",
+    "sortie": "16/08/06",
+    "entrees": "1.57"
+} , {
+    "_id": "5ab2680978a489d3423ad050",
+    "titre": "NOS VOISINS LES HOMMES",
+    "nationalité": "ETATS UNIS",
+    "sortie": "05/07/06",
+    "entrees": "1.51"
+} , {
+    "_id": "5ab2680978a489d3423ad051",
+    "titre": "INFILTRES (LES)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "29/11/06",
+    "entrees": "1.48"
+} , {
+    "_id": "5ab2680978a489d3423ad052",
+    "titre": "NOS JOURS HEUREUX (EX:CES JOURS HEUREUX)",
+    "nationalité": "FRANCE",
+    "sortie": "28/06/06",
+    "entrees": "1.47"
+} , {
+    "_id": "5ab2680978a489d3423ad053",
+    "titre": "SUPERMAN RETURNS",
+    "nationalité": "ETATS UNIS",
+    "sortie": "12/07/06",
+    "entrees": "1.46"
+} , {
+    "_id": "5ab2680978a489d3423ad054",
+    "titre": "OSS 117 - LE CAIRE. NID D'ESPIONS",
+    "nationalité": "FRANCE",
+    "sortie": "19/04/06",
+    "entrees": "2.30"
+} , {
+    "_id": "5ab2680978a489d3423ad055",
+    "titre": "LORD OF WAR",
+    "nationalité": "ETATS UNIS",
+    "sortie": "04/01/06",
+    "entrees": "1.31"
+} , {
+    "_id": "5ab2680978a489d3423ad056",
+    "titre": "SECRET DE BROKEBACK MOUNTAIN (LE)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "18/01/06",
+    "entrees": "1.32"
+} , {
+    "_id": "5ab2680978a489d3423ad057",
+    "titre": "GARFIELD 2",
+    "nationalité": "ETATS UNIS",
+    "sortie": "19/07/06",
+    "entrees": "1.27"
+} , {
+    "_id": "5ab2680978a489d3423ad058",
+    "titre": "VOLVER",
+    "nationalité": "ESPAGNE",
+    "sortie": "19/05/06",
+    "entrees": "2.30"
+} , {
+    "_id": "5ab2680978a489d3423ad059",
+    "titre": "REBELLES DE LA FORET (LES)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "18/10/06",
+    "entrees": "1.57"
+} , {
+    "_id": "5ab2680978a489d3423ad05a",
+    "titre": "JEAN-PHILIPPE",
+    "nationalité": "FRANCE",
+    "sortie": "05/04/06",
+    "entrees": "1.22"
+} , {
+    "_id": "5ab2680978a489d3423ad05b",
+    "titre": "ASTÉRIX ET LES VIKINGS",
+    "nationalité": "FRANCE",
+    "sortie": "12/04/06",
+    "entrees": "1.37"
+} , {
+    "_id": "5ab2680978a489d3423ad05c",
+    "titre": "MONDE DE NARNIA (LE) - CHAPITRE 1 - LE LION. LA SORCIERE BLANCHE ET L'ARMOIRE MAGIQUE",
+    "nationalité": "ETATS UNIS",
+    "sortie": "21/12/05",
+    "entrees": "2.26"
+} , {
+    "_id": "5ab2680978a489d3423ad05d",
+    "titre": "CASINO ROYALE",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "22/11/06",
+    "entrees": "2.84"
+} , {
+    "_id": "5ab2680978a489d3423ad05e",
+    "titre": "MARIE ANTOINETTE",
+    "nationalité": "ETATS UNIS",
+    "sortie": "24/05/06",
+    "entrees": "1.22"
+} , {
+    "_id": "5ab2680978a489d3423ad05f",
+    "titre": "HORS DE PRIX",
+    "nationalité": "FRANCE",
+    "sortie": "13/12/06",
+    "entrees": "1.21"
+} , {
+    "_id": "5ab2680978a489d3423ad060",
+    "titre": "INSIDE MAN",
+    "nationalité": "ETATS UNIS",
+    "sortie": "12/04/06",
+    "entrees": "1.18"
+} , {
+    "_id": "5ab2680978a489d3423ad061",
+    "titre": "MAISON DU BONHEUR (LA)",
+    "nationalité": "FRANCE",
+    "sortie": "07/06/06",
+    "entrees": "1.14"
+} , {
+    "_id": "5ab2680978a489d3423ad062",
+    "titre": "HAPPY FEET",
+    "nationalité": "ETATS UNIS",
+    "sortie": "06/12/06",
+    "entrees": "1.10"
+} , {
+    "_id": "5ab2680978a489d3423ad063",
+    "titre": "SOURIS CITY",
+    "nationalité": "ETATS UNIS",
+    "sortie": "29/11/06",
+    "entrees": "1.04"
+} , {
+    "_id": "5ab2680978a489d3423ad064",
+    "titre": "COMME T'Y ES BELLE !",
+    "nationalité": "FRANCE / GRANDE BRETAGNE / LUXEMBOURG / BELGIQUE",
+    "sortie": "10/05/06",
+    "entrees": "1.04"
+} , {
+    "_id": "5ab2680978a489d3423ad065",
+    "titre": "MUNICH",
+    "nationalité": "ETATS UNIS",
+    "sortie": "25/01/06",
+    "entrees": "1.04"
+} , {
+    "_id": "5ab2680978a489d3423ad066",
+    "titre": "IVRESSE DU POUVOIR (EX:LA COMÉDIE DU POUVOIR)",
+    "nationalité": "FRANCE / ALLEMAGNE",
+    "sortie": "22/02/06",
+    "entrees": "1.08"
+} , {
+    "_id": "5ab2681b78a489d3423ad06e",
+    "titre": "TAXI 4",
+    "nationalité": "France",
+    "sortie": "14/02/07",
+    "entrees": "4.55"
+} , {
+    "_id": "5ab2681b78a489d3423ad06f",
+    "titre": "ENSEMBLE. C'EST TOUT",
+    "nationalité": "France",
+    "sortie": "21/03/07",
+    "entrees": "2.31"
+} , {
+    "_id": "5ab2681b78a489d3423ad070",
+    "titre": "HARRY POTTER ET L'ORDRE DU PHENIX",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "11/07/07",
+    "entrees": "6.22"
+} , {
+    "_id": "5ab2681b78a489d3423ad071",
+    "titre": "A LA CROISEE DES MONDES : LA BOUSSOLE D'OR",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "05/12/07",
+    "entrees": "2.29"
+} , {
+    "_id": "5ab2681b78a489d3423ad072",
+    "titre": "NUIT AU MUSEE (LA)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "07/02/07",
+    "entrees": "2.27"
+} , {
+    "_id": "5ab2681b78a489d3423ad073",
+    "titre": "ARTHUR ET LES MINIMOYS (EX : ARTHUR)",
+    "nationalité": "FRANCE",
+    "sortie": "13/12/06",
+    "entrees": "2.25"
+} , {
+    "_id": "5ab2681b78a489d3423ad074",
+    "titre": "DIE HARD 4 RETOUR EN ENFER",
+    "nationalité": "ETATS UNIS",
+    "sortie": "04/07/07",
+    "entrees": "2.27"
+} , {
+    "_id": "5ab2681b78a489d3423ad075",
+    "titre": "TRANSFORMERS",
+    "nationalité": "ETATS UNIS",
+    "sortie": "25/07/07",
+    "entrees": "1.98"
+} , {
+    "_id": "5ab2681b78a489d3423ad076",
+    "titre": "JE SUIS UNE LEGENDE",
+    "nationalité": "ETATS UNIS",
+    "sortie": "19/12/07",
+    "entrees": "1.88"
+} , {
+    "_id": "5ab2681b78a489d3423ad077",
+    "titre": "IL ETAIT UNE FOIS",
+    "nationalité": "ETATS UNIS",
+    "sortie": "28/11/07",
+    "entrees": "2.19"
+} , {
+    "_id": "5ab2681b78a489d3423ad078",
+    "titre": "SIMPSON LE FILM (LES)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "25/07/07",
+    "entrees": "3.55"
+} , {
+    "_id": "5ab2681b78a489d3423ad079",
+    "titre": "SPIDER-MAN 3",
+    "nationalité": "ETATS UNIS",
+    "sortie": "01/05/07",
+    "entrees": "6.32"
+} , {
+    "_id": "5ab2681b78a489d3423ad07a",
+    "titre": 300,
+    "nationalité": "ETATS UNIS",
+    "sortie": "21/03/07",
+    "entrees": "1.65"
+} , {
+    "_id": "5ab2681b78a489d3423ad07b",
+    "titre": "OCEAN'S 13",
+    "nationalité": "ETATS UNIS",
+    "sortie": "20/06/07",
+    "entrees": "1.64"
+} , {
+    "_id": "5ab2681b78a489d3423ad07c",
+    "titre": "UN SECRET",
+    "nationalité": "France / Allemagne",
+    "sortie": "03/10/07",
+    "entrees": "1.65"
+} , {
+    "_id": "5ab2681b78a489d3423ad07d",
+    "titre": "VENGEANCE DANS LA PEAU (LA)",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "12/09/07",
+    "entrees": "1.54"
+} , {
+    "_id": "5ab2681b78a489d3423ad07e",
+    "titre": "VIE DES AUTRES (LA)",
+    "nationalité": "ALLEMAGNE",
+    "sortie": "31/01/07",
+    "entrees": "1.54"
+} , {
+    "_id": "5ab2681b78a489d3423ad07f",
+    "titre": "ROIS DE LA GLISSE (LES)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "24/10/07",
+    "entrees": "1.51"
+} , {
+    "_id": "5ab2681b78a489d3423ad080",
+    "titre": "RENARD ET L'ENFANT (LE)",
+    "nationalité": "France",
+    "sortie": "12/12/07",
+    "entrees": "1.49"
+} , {
+    "_id": "5ab2681b78a489d3423ad081",
+    "titre": "CŒUR DES HOMMES N°2 (LE)",
+    "nationalité": "France",
+    "sortie": "24/10/07",
+    "entrees": "1.81"
+} , {
+    "_id": "5ab2681b78a489d3423ad082",
+    "titre": "PIRATES DES CARAIBES. JUSQU'AU BOUT DU MONDE",
+    "nationalité": "ETATS UNIS",
+    "sortie": "23/05/07",
+    "entrees": "5.64"
+} , {
+    "_id": "5ab2681b78a489d3423ad083",
+    "titre": "4 FANTASTIQUES ET LE SURFER D'ARGENT (LES)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "08/08/07",
+    "entrees": "1.66"
+} , {
+    "_id": "5ab2681b78a489d3423ad084",
+    "titre": "MOME (LA)",
+    "nationalité": "France / REPUBLIQUE TCHEQUE / GRANDE BRETAGNE",
+    "sortie": "14/02/07",
+    "entrees": "5.22"
+} , {
+    "_id": "5ab2681b78a489d3423ad085",
+    "titre": "UN JOUR SUR TERRE",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "10/10/07",
+    "entrees": "1.40"
+} , {
+    "_id": "5ab2681b78a489d3423ad086",
+    "titre": "DIALOGUE AVEC MON JARDINIER",
+    "nationalité": "FRANCE",
+    "sortie": "06/06/07",
+    "entrees": "1.36"
+} , {
+    "_id": "5ab2681b78a489d3423ad087",
+    "titre": "PRIX À PAYER (LE)",
+    "nationalité": "France",
+    "sortie": "04/04/07",
+    "entrees": "1.34"
+} , {
+    "_id": "5ab2681b78a489d3423ad088",
+    "titre": "BLOOD DIAMOND",
+    "nationalité": "ETATS UNIS",
+    "sortie": "31/01/07",
+    "entrees": "1.31"
+} , {
+    "_id": "5ab2681b78a489d3423ad089",
+    "titre": "99 FRANCS",
+    "nationalité": "France",
+    "sortie": "26/09/07",
+    "entrees": "1.23"
+} , {
+    "_id": "5ab2681b78a489d3423ad08a",
+    "titre": "MOLIÈRE",
+    "nationalité": "France",
+    "sortie": "31/01/07",
+    "entrees": "1.22"
+} , {
+    "_id": "5ab2681b78a489d3423ad08b",
+    "titre": "ERAGON",
+    "nationalité": "ETATS UNIS",
+    "sortie": "20/12/06",
+    "entrees": "1.21"
+} , {
+    "_id": "5ab2681b78a489d3423ad08c",
+    "titre": "AMERICAN GANGSTER",
+    "nationalité": "ETATS UNIS",
+    "sortie": "14/11/07",
+    "entrees": "1.17"
+} , {
+    "_id": "5ab2681b78a489d3423ad08d",
+    "titre": "ROCKY BALBOA",
+    "nationalité": "ETATS UNIS",
+    "sortie": "24/01/07",
+    "entrees": "1.15"
+} , {
+    "_id": "5ab2681b78a489d3423ad08e",
+    "titre": "FAILLE (LA)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "09/05/07",
+    "entrees": "1.12"
+} , {
+    "_id": "5ab2681b78a489d3423ad08f",
+    "titre": "GHOST RIDER",
+    "nationalité": "ETATS UNIS",
+    "sortie": "21/02/07",
+    "entrees": "1.07"
+} , {
+    "_id": "5ab2681b78a489d3423ad090",
+    "titre": "VACANCES DE MR BEAN (LES)",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "18/04/07",
+    "entrees": "1.06"
+} , {
+    "_id": "5ab2681b78a489d3423ad091",
+    "titre": "SECRET DE TARABITHIA (LE)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "28/03/07",
+    "entrees": "1.05"
+} , {
+    "_id": "5ab2681b78a489d3423ad092",
+    "titre": "PERSÉPOLIS",
+    "nationalité": "FRANCE",
+    "sortie": "27/06/07",
+    "entrees": "1.24"
+
+} , {
+    "_id": "5ab2681b78a489d3423ad093",
+    "titre": "ZODIAC",
+    "nationalité": "ETATS UNIS",
+    "sortie": "17/05/07",
+    "entrees": "1.13"
+} , {
+    "_id": "5ab2681b78a489d3423ad094",
+    "titre": "RATATOUILLE",
+    "nationalité": "ETATS UNIS",
+    "sortie": "01/08/07",
+    "entrees": "7.68"
+} , {
+    "_id": "5ab2681b78a489d3423ad095",
+    "titre": "SHREK LE TROISIEME",
+    "nationalité": "ETATS UNIS",
+    "sortie": "13/06/07",
+    "entrees": "5.55"
+} , {
+    "_id": "5ab2685678a489d3423ad0a5",
+    "titre": "HANCOCK",
+    "nationalité": "ETATS UNIS",
+    "sortie": "09/07/08",
+    "entrees": "3.07"
+} , {
+    "_id": "5ab2685678a489d3423ad0a6",
+    "titre": "MONDE DE NARNIA (LE ) - CHAPITRE 2 - LE PRINCE CASPIAN",
+    "nationalité": "ETATS UNIS",
+    "sortie": "25/06/08",
+    "entrees": "3.05"
+} , {
+    "_id": "5ab2685678a489d3423ad0a7",
+    "titre": "ASTÉRIX AUX JEUX OLYMPIQUES",
+    "nationalité": "France / Allemagne / Espagne / Italie",
+    "sortie": "30/01/08",
+    "entrees": "6.81"
+} , {
+    "_id": "5ab2685678a489d3423ad0a8",
+    "titre": "THE DARK KNIGHT LE CHEVALIER NOIR",
+    "nationalité": "ETATS UNIS",
+    "sortie": "13/08/08",
+    "entrees": "3.00"
+} , {
+    "_id": "5ab2685678a489d3423ad0a9",
+    "titre": "DISCO",
+    "nationalité": "France",
+    "sortie": "02/04/08",
+    "entrees": "2.35"
+} , {
+    "_id": "5ab2685678a489d3423ad0aa",
+    "titre": "MESRINE : L'INSTINCT DE MORT",
+    "nationalité": "France / Canada / Italie",
+    "sortie": "22/10/08",
+    "entrees": "2.26"
+} , {
+    "_id": "5ab2685678a489d3423ad0ab",
+    "titre": "ENFIN VEUVE",
+    "nationalité": "France",
+    "sortie": "16/01/08",
+    "entrees": "2.25"
+} , {
+    "_id": "5ab2685678a489d3423ad0ac",
+    "titre": "IRON MAN",
+    "nationalité": "ETATS UNIS",
+    "sortie": "30/04/08",
+    "entrees": "2.04"
+} , {
+    "_id": "5ab2685678a489d3423ad0ad",
+    "titre": "SEX AND THE CITY LE FILM",
+    "nationalité": "ETATS UNIS",
+    "sortie": "28/05/08",
+    "entrees": "1.99"
+} , {
+    "_id": "5ab2685678a489d3423ad0ae",
+    "titre": "BENJAMIN GATES ET LE LIVRE DES SECRETS",
+    "nationalité": "ETATS UNIS",
+    "sortie": "13/02/08",
+    "entrees": "1.95"
+} , {
+    "_id": "5ab2685678a489d3423ad0af",
+    "titre": "HIGH SCHOOL MUSICAL 3 : NOS ANNEES LYCEE",
+    "nationalité": "ETATS UNIS",
+    "sortie": "22/10/08",
+    "entrees": "1.88"
+} , {
+    "_id": "5ab2685678a489d3423ad0b0",
+    "titre": "BIENVENUE CHEZ LES CH'TIS",
+    "nationalité": "France",
+    "sortie": "27/02/08",
+    "entrees": "20.43"
+} , {
+    "_id": "5ab2685678a489d3423ad0b1",
+    "titre": "HORTON",
+    "nationalité": "ETATS UNIS",
+    "sortie": "02/04/08",
+    "entrees": "1.68"
+} , {
+    "_id": "5ab2685678a489d3423ad0b2",
+    "titre": "PARIS",
+    "nationalité": "France",
+    "sortie": "20/02/08",
+    "entrees": "1.75"
+} , {
+    "_id": "5ab2685678a489d3423ad0b3",
+    "titre": "ENTRE LES MURS",
+    "nationalité": "France",
+    "sortie": "24/09/08",
+    "entrees": "1.58"
+} , {
+    "_id": "5ab2685678a489d3423ad0b4",
+    "titre": "MAMMA MIA ! LE FILM",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "10/09/08",
+    "entrees": "1.57"
+} , {
+    "_id": "5ab2685678a489d3423ad0b5",
+    "titre": "MOMIE : LA TOMBE DE L'EMPEREUR DRAGON (LA )",
+    "nationalité": "ETATS UNIS",
+    "sortie": "06/08/08",
+    "entrees": "1.56"
+} , {
+    "_id": "5ab2685678a489d3423ad0b6",
+    "titre": "MESRINE : L'ENNEMI PUBLIC N°1",
+    "nationalité": "France",
+    "sortie": "19/11/08",
+    "entrees": "1.50"
+} , {
+    "_id": "5ab2685678a489d3423ad0b7",
+    "titre": "INTO THE WILD",
+    "nationalité": "ETATS UNIS",
+    "sortie": "09/01/08",
+    "entrees": "1.42"
+} , {
+    "_id": "5ab2685678a489d3423ad0b8",
+    "titre": "KUNG FU PANDA",
+    "nationalité": "ETATS UNIS",
+    "sortie": "09/07/08",
+    "entrees": "3.27"
+} , {
+    "_id": "5ab2685678a489d3423ad0b9",
+    "titre": "WALL-E",
+    "nationalité": "ETATS UNIS",
+    "sortie": "30/07/08",
+    "entrees": "3.17"
+} , {
+    "_id": "5ab2685678a489d3423ad0ba",
+    "titre": "VICKY CRISTINA BARCELONA",
+    "nationalité": "ESPAGNE",
+    "sortie": "08/10/08",
+    "entrees": "1.88"
+} , {
+    "_id": "5ab2685678a489d3423ad0bb",
+    "titre": "MADAGASCAR 2 : LA GRANDE EVASION",
+    "nationalité": "ETATS UNIS",
+    "sortie": "03/12/08",
+    "entrees": "4.35"
+} , {
+    "_id": "5ab2685678a489d3423ad0bc",
+    "titre": "INDIANA JONES ET LE ROYAUME DU CRANE DE CRISTAL",
+    "nationalité": "ETATS UNIS",
+    "sortie": "21/05/08",
+    "entrees": "4.21"
+} , {
+    "_id": "5ab2685678a489d3423ad0bd",
+    "titre": "QUANTUM OF SOLACE",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "31/10/08",
+    "entrees": "3.70"
+} , {
+    "_id": "5ab2685678a489d3423ad0be",
+    "titre": "ECHANGE (L')",
+    "nationalité": "ETATS UNIS",
+    "sortie": "12/11/08",
+    "entrees": "1.37"
+} , {
+    "_id": "5ab2685678a489d3423ad0bf",
+    "titre": "TRANSPORTEUR 3 (LE)",
+    "nationalité": "FRANCE",
+    "sortie": "26/11/08",
+    "entrees": "1.35"
+} , {
+    "_id": "5ab2685678a489d3423ad0c0",
+    "titre": "PHENOMENES",
+    "nationalité": "ETATS UNIS",
+    "sortie": "11/06/08",
+    "entrees": "1.30"
+} , {
+    "_id": "5ab2685678a489d3423ad0c1",
+    "titre": "FAUBOURG 36",
+    "nationalité": "France / Allemagne / REPUBLIQUE TCHEQUE",
+    "sortie": "24/09/08",
+    "entrees": "1.32"
+} , {
+    "_id": "5ab2685678a489d3423ad0c2",
+    "titre": "CHIMPANZES DE L'ESPACE (LES)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "22/10/08",
+    "entrees": "1.24"
+} , {
+    "_id": "5ab2685678a489d3423ad0c3",
+    "titre": "PREMIER JOUR DU RESTE DE TA VIE (LE)",
+    "nationalité": "France",
+    "sortie": "23/07/08",
+    "entrees": "1.20"
+} , {
+    "_id": "5ab2685678a489d3423ad0c4",
+    "titre": "CRIME EST NOTRE AFFAIRE (LE)",
+    "nationalité": "FRANCE",
+    "sortie": "15/10/08",
+    "entrees": "1.18"
+} , {
+    "_id": "5ab2685678a489d3423ad0c5",
+    "titre": "JUMPER",
+    "nationalité": "ETATS UNIS",
+    "sortie": "20/02/08",
+    "entrees": "1.15"
+} , {
+    "_id": "5ab2685678a489d3423ad0c6",
+    "titre": "VOYAGE AU CENTRE DE LA TERRE 3D",
+    "nationalité": "ETATS UNIS",
+    "sortie": "16/07/08",
+    "entrees": "1.21"
+} , {
+    "_id": "5ab2685678a489d3423ad0c7",
+    "titre": "LARGO WINCH",
+    "nationalité": "FRANCE",
+    "sortie": "17/12/08",
+    "entrees": "1.12"
+} , {
+    "_id": "5ab2685678a489d3423ad0c8",
+    "titre": "WANTED : CHOISIS TON DESTIN",
+    "nationalité": "ETATS UNIS",
+    "sortie": "16/07/08",
+    "entrees": "1.09"
+} , {
+    "_id": "5ab2685678a489d3423ad0c9",
+    "titre": "INCROYABLE HULK (L')",
+    "nationalité": "ETATS UNIS",
+    "sortie": "23/07/08",
+    "entrees": "1.03"
+} , {
+    "_id": "5ab2685678a489d3423ad0ca",
+    "titre": "BURN AFTER READING",
+    "nationalité": "ETATS UNIS",
+    "sortie": "10/12/08",
+    "entrees": "1.06"
+} , {
+    "_id": "5ab2685678a489d3423ad0cb",
+    "titre": "TAKEN",
+    "nationalité": "France",
+    "sortie": "27/02/08",
+    "entrees": "1.02"
+} , {
+    "_id": "5ab2685678a489d3423ad0cc",
+    "titre": "JOUR OU LA TERRE S'ARRETA (LE)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "10/12/08",
+    "entrees": "1.00"
+} , {
+    "_id": "5ab2685678a489d3423ad0cd",
+    "titre": "AGATHE CLÉRY",
+    "nationalité": "France",
+    "sortie": "03/12/08",
+    "entrees": "1.09"
+} , {
+    "_id": "5ab2685678a489d3423ad0ce",
+    "titre": "DEUX JOURS À TUER",
+    "nationalité": "France",
+    "sortie": "30/04/08",
+    "entrees": "1.09"
+} , {
+    "_id": "5ab2685678a489d3423ad0cf",
+    "titre": "CASH",
+    "nationalité": "France",
+    "sortie": "23/04/08",
+    "entrees": "1.11"
+} , {
+    "_id": "5ab2685678a489d3423ad0d0",
+    "titre": "SWEENEY TODD LE DIABOLIQUE BARBIER DE FLEET STREET",
+    "nationalité": "ETATS UNIS",
+    "sortie": "23/01/08",
+    "entrees": "1.05"
+} , {
+    "_id": "5ab2685678a489d3423ad0d1",
+    "titre": "JACKPOT",
+    "nationalité": "ETATS UNIS",
+    "sortie": "07/05/08",
+    "entrees": "1.05"
+} , {
+    "_id": "5ab2685678a489d3423ad0d2",
+    "titre": "JE SUIS UNE LEGENDE",
+    "nationalité": "ETATS UNIS",
+    "sortie": "19/12/07",
+    "entrees": "1.03"
+} , {
+    "_id": "5ab2687978a489d3423ad0de",
+    "titre": "AVATAR",
+    "nationalité": "ETATS UNIS",
+    "sortie": "16/12/09",
+    "entrees": "6.28"
+} , {
+    "_id": "5ab2687978a489d3423ad0df",
+    "titre": "LA-HAUT",
+    "nationalité": "ETATS UNIS",
+    "sortie": "29/07/09",
+    "entrees": "4.40"
+} , {
+    "_id": "5ab2687978a489d3423ad0e0",
+    "titre": "TWILIGHT - CHAPITRE 2 : TENTATION",
+    "nationalité": "ETATS UNIS",
+    "sortie": "18/11/09",
+    "entrees": "4.12"
+} , {
+    "_id": "5ab2687978a489d3423ad0e1",
+    "titre": "LOL (LAUGHING OUT LOUD)",
+    "nationalité": "FRANCE",
+    "sortie": "04/02/09",
+    "entrees": "3.65"
+} , {
+    "_id": "5ab2687978a489d3423ad0e2",
+    "titre": "ARTHUR ET LA VENGEANCE DE MALTAZARD",
+    "nationalité": "FRANCE",
+    "sortie": "02/12/09",
+    "entrees": "3.53"
+} , {
+    "_id": "5ab2687978a489d3423ad0e3",
+    "titre": "COCO",
+    "nationalité": "FRANCE",
+    "sortie": "18/03/09",
+    "entrees": "2.93"
+} , {
+    "_id": "5ab2687978a489d3423ad0e4",
+    "titre": "GRAN TORINO",
+    "nationalité": "ETATS UNIS",
+    "sortie": "25/02/09",
+    "entrees": "3.44"
+} , {
+    "_id": "5ab2687978a489d3423ad0e5",
+    "titre": "2012",
+    "nationalité": "ETATS UNIS",
+    "sortie": "11/11/09",
+    "entrees": "4.56"
+} , {
+    "_id": "5ab2687978a489d3423ad0e6",
+    "titre": "VOLT. STAR MALGRE LUI",
+    "nationalité": "ETATS UNIS",
+    "sortie": "04/02/09",
+    "entrees": "2.88"
+} , {
+    "_id": "5ab2687978a489d3423ad0e7",
+    "titre": "INGLOURIOUS BASTERDS",
+    "nationalité": "ETATS UNIS",
+    "sortie": "19/08/09",
+    "entrees": "2.83"
+} , {
+    "_id": "5ab2687978a489d3423ad0e8",
+    "titre": "TWILIGHT - CHAPITRE 1 : FASCINATION",
+    "nationalité": "ETATS UNIS",
+    "sortie": "07/01/09",
+    "entrees": "2.79"
+} , {
+    "_id": "5ab2687978a489d3423ad0e9",
+    "titre": "HARRY POTTER ET LE PRINCE DE SANG-MELE",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "15/07/09",
+    "entrees": "6.08"
+} , {
+    "_id": "5ab2687978a489d3423ad0ea",
+    "titre": "PETIT NICOLAS (LE)",
+    "nationalité": "FRANCE / BELGIQUE",
+    "sortie": "30/09/09",
+    "entrees": "5.53"
+} , {
+    "_id": "5ab2687978a489d3423ad0eb",
+    "titre": "AGE DE GLACE 3 LE TEMPS DES DINOSAURES (L')",
+    "nationalité": "ETATS UNIS",
+    "sortie": "03/07/09",
+    "entrees": "7.81"
+} , {
+    "_id": "5ab2687978a489d3423ad0ec",
+    "titre": "SLUMDOG MILLIONAIRE",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "14/01/09",
+    "entrees": "2.70"
+} , {
+    "_id": "5ab2687978a489d3423ad0ed",
+    "titre": "OSS 117 RIO NE RÉPOND PLUS",
+    "nationalité": "FRANCE",
+    "sortie": "15/04/09",
+    "entrees": "2.52"
+} , {
+    "_id": "5ab2687978a489d3423ad0ee",
+    "titre": "SAFARI",
+    "nationalité": "FRANCE",
+    "sortie": "01/04/09",
+    "entrees": "1.96"
+} , {
+    "_id": "5ab2687978a489d3423ad0ef",
+    "titre": "X-MEN ORIGINS WOLVERINE",
+    "nationalité": "ETATS UNIS",
+    "sortie": "29/04/09",
+    "entrees": "1.96"
+} , {
+    "_id": "5ab2687978a489d3423ad0f0",
+    "titre": "TRANSFORMERS 2 LA REVANCHE",
+    "nationalité": "ETATS UNIS",
+    "sortie": "24/06/09",
+    "entrees": "2.26"
+} , {
+    "_id": "5ab2687978a489d3423ad0f1",
+    "titre": "VERY BAD TRIP",
+    "nationalité": "ETATS UNIS",
+    "sortie": "24/06/09",
+    "entrees": "2.00"
+} , {
+    "_id": "5ab2687978a489d3423ad0f2",
+    "titre": "ANGES & DEMONS",
+    "nationalité": "ETATS UNIS",
+    "sortie": "13/05/09",
+    "entrees": "2.04"
+} , {
+    "_id": "5ab2687978a489d3423ad0f3",
+    "titre": "ETRANGE HISTOIRE DE BENJAMIN BUTTON (L')",
+    "nationalité": "ETATS UNIS",
+    "sortie": "04/02/09",
+    "entrees": "2.61"
+} , {
+    "_id": "5ab2687978a489d3423ad0f4",
+    "titre": "NEUILLY SA MERE !",
+    "nationalité": "FRANCE",
+    "sortie": "12/08/09",
+    "entrees": "2.54"
+} , {
+    "_id": "5ab2687978a489d3423ad0f5",
+    "titre": "LUCKY LUKE",
+    "nationalité": "FRANCE",
+    "sortie": "21/10/09",
+    "entrees": "1.87"
+} , {
+    "_id": "5ab2687978a489d3423ad0f6",
+    "titre": "DE L'AUTRE COTE DU LIT",
+    "nationalité": "FRANCE",
+    "sortie": "07/01/09",
+    "entrees": "1.81"
+} , {
+    "_id": "5ab2687978a489d3423ad0f7",
+    "titre": "PREMIÈRE ÉTOILE (LA)",
+    "nationalité": "FRANCE",
+    "sortie": "25/03/09",
+    "entrees": "1.65"
+} , {
+    "_id": "5ab2687978a489d3423ad0f8",
+    "titre": "CODE A CHANGÉ (LE)",
+    "nationalité": "FRANCE",
+    "sortie": "18/02/09",
+    "entrees": "1.63"
+} , {
+    "_id": "5ab2687978a489d3423ad0f9",
+    "titre": "CONCERT (LE)",
+    "nationalité": "FRANCE / BELGIQUE / ROUMANIE / ITALIE",
+    "sortie": "04/11/09",
+    "entrees": "1.61"
+} , {
+    "_id": "5ab2687978a489d3423ad0fa",
+    "titre": "NUIT AU MUSEE 2",
+    "nationalité": "ETATS UNIS",
+    "sortie": "20/05/09",
+    "entrees": "1.63"
+} , {
+    "_id": "5ab2687978a489d3423ad0fb",
+    "titre": "PUBLIC ENEMIES",
+    "nationalité": "ETATS UNIS",
+    "sortie": "08/07/09",
+    "entrees": "1.57"
+} , {
+    "_id": "5ab2687978a489d3423ad0fc",
+    "titre": "TERMINATOR RENAISSANCE",
+    "nationalité": "ETATS UNIS",
+    "sortie": "03/06/09",
+    "entrees": "1.55"
+} , {
+    "_id": "5ab2687978a489d3423ad0fd",
+    "titre": "MICHAEL JACKSON'S THIS IS IT",
+    "nationalité": "ETATS UNIS",
+    "sortie": "28/10/09",
+    "entrees": "1.55"
+} , {
+    "_id": "5ab2687978a489d3423ad0fe",
+    "titre": "WELCOME",
+    "nationalité": "FRANCE",
+    "sortie": "11/03/09",
+    "entrees": "1.22"
+} , {
+    "_id": "5ab2687978a489d3423ad0ff",
+    "titre": "INCOGNITO",
+    "nationalité": "FRANCE / BELGIQUE",
+    "sortie": "29/04/09",
+    "entrees": "1.24"
+} , {
+    "_id": "5ab2687978a489d3423ad100",
+    "titre": "MILLENIUM",
+    "nationalité": "SUEDE",
+    "sortie": "13/05/09",
+    "entrees": "1.22"
+} , {
+    "_id": "5ab2687978a489d3423ad101",
+    "titre": "UN PROPHÈTE",
+    "nationalité": "FRANCE / ITALIE",
+    "sortie": "26/08/09",
+    "entrees": "1.22"
+} , {
+    "_id": "5ab2687978a489d3423ad102",
+    "titre": "NOCES REBELLES (LES)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "21/01/09",
+    "entrees": "1.14"
+} , {
+    "_id": "5ab2687978a489d3423ad103",
+    "titre": "DESTINATION FINALE 4",
+    "nationalité": "ETATS UNIS",
+    "sortie": "26/08/09",
+    "entrees": "1.11"
+} , {
+    "_id": "5ab2687978a489d3423ad104",
+    "titre": "DISTRICT 9",
+    "nationalité": "ETATS UNIS",
+    "sortie": "16/09/09",
+    "entrees": "1.11"
+
+} , {
+    "_id": "5ab2687978a489d3423ad105",
+    "titre": "SEPT VIES",
+    "nationalité": "ETATS UNIS",
+    "sortie": "14/01/09",
+    "entrees": "1.11"
+} , {
+    "_id": "5ab2687978a489d3423ad106",
+    "titre": "BANLIEUE 13 - ULTIMATUM",
+    "nationalité": "FRANCE",
+    "sortie": "18/02/09",
+    "entrees": "1.10"
+} , {
+    "_id": "5ab2687978a489d3423ad107",
+    "titre": "PARANORMAL ACTIVITY",
+    "nationalité": "ETATS UNIS",
+    "sortie": "02/12/09",
+    "entrees": "1.05"
+} , {
+    "_id": "5ab2687978a489d3423ad108",
+    "titre": "COCO AVANT CHANEL",
+    "nationalité": "FRANCE",
+    "sortie": "22/04/09",
+    "entrees": "1.04"
+} , {
+    "_id": "5ab2687978a489d3423ad109",
+    "titre": "FAST & FURIOUS 4",
+    "nationalité": "ETATS UNIS",
+    "sortie": "08/04/09",
+    "entrees": "1.78"
+} , {
+    "_id": "5ab2687978a489d3423ad10a",
+    "titre": "MONSTRES CONTRE ALIENS",
+    "nationalité": "ETATS UNIS",
+    "sortie": "01/04/09",
+    "entrees": "1.26"
+} , {
+    "_id": "5ab2687978a489d3423ad10b",
+    "titre": "PREDICTIONS",
+    "nationalité": "AUSTRALIE",
+    "sortie": "01/04/09",
+    "entrees": "1.40"
+} , {
+    "_id": "5ab2687978a489d3423ad10c",
+    "titre": "MICMACS À TIRE-LARIGOT",
+    "nationalité": "FRANCE",
+    "sortie": "28/10/09",
+    "entrees": "1.26"
+} , {
+    "_id": "5ab2687978a489d3423ad10d",
+    "titre": "MISSION-G",
+    "nationalité": "ETATS UNIS",
+    "sortie": "14/10/09",
+    "entrees": "1.37"
+
+} , {
+    "_id": "5ab2687978a489d3423ad10e",
+    "titre": "DROLE DE NOEL DE SCROOGE (LE)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "25/11/09",
+    "entrees": "1.27"
+} , {
+    "_id": "5ab2687978a489d3423ad10f",
+    "titre": "17 ANS ENCORE",
+    "nationalité": "ETATS UNIS",
+    "sortie": "22/04/09",
+    "entrees": "1.01"
+} , {
+    "_id": "5ab2688f78a489d3423ad119",
+    "titre": "AVATAR",
+    "nationalité": "ETATS UNIS",
+    "sortie": "16/12/09",
+    "entrees": "8.45"
+} , {
+    "_id": "5ab2688f78a489d3423ad11a",
+    "titre": "CAMPING 2",
+    "nationalité": "FRANCE",
+    "sortie": "21/04/10",
+    "entrees": "3.98"
+} , {
+    "_id": "5ab2688f78a489d3423ad11b",
+    "titre": "ALICE AU PAYS DES MERVEILLES",
+    "nationalité": "ETATS UNIS",
+    "sortie": "24/03/10",
+    "entrees": "4.43"
+} , {
+    "_id": "5ab2688f78a489d3423ad11c",
+    "titre": "TWILIGHT - CHAPITRE 3 : HESITATION",
+    "nationalité": "ETATS UNIS",
+    "sortie": "07/07/10",
+    "entrees": "3.94"
+} , {
+    "_id": "5ab2688f78a489d3423ad11d",
+    "titre": "PRINCESSE ET LA GRENOUILLE (LA)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "27/01/10",
+    "entrees": "3.66"
+} , {
+    "_id": "5ab2688f78a489d3423ad11e",
+    "titre": "ARNACOEUR (L')",
+    "nationalité": "FRANCE",
+    "sortie": "17/03/10",
+    "entrees": "3.78"
+} , {
+    "_id": "5ab2688f78a489d3423ad11f",
+    "titre": "INVICTUS",
+    "nationalité": "ETATS UNIS",
+    "sortie": "13/01/10",
+    "entrees": "3.17"
+} , {
+    "_id": "5ab2688f78a489d3423ad120",
+    "titre": "DES HOMMES ET DES DIEUX",
+    "nationalité": "FRANCE",
+    "sortie": "08/09/10",
+    "entrees": "3.14"
+} , {
+    "_id": "5ab2688f78a489d3423ad121",
+    "titre": "SHUTTER ISLAND",
+    "nationalité": "ETATS UNIS",
+    "sortie": "24/02/10",
+    "entrees": "3.11"
+} , {
+    "_id": "5ab2688f78a489d3423ad122",
+    "titre": "TOY STORY 3",
+    "nationalité": "ETATS UNIS",
+    "sortie": "14/07/10",
+    "entrees": "4.26"
+} , {
+    "_id": "5ab2688f78a489d3423ad123",
+    "titre": "INCEPTION",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "21/07/10",
+    "entrees": "4.94"
+} , {
+    "_id": "5ab2688f78a489d3423ad124",
+    "titre": "SHREK 4. IL ÉTAIT UNE FIN",
+    "nationalité": "ETATS UNIS",
+    "sortie": "30/06/10",
+    "entrees": "4.62"
+} , {
+    "_id": "5ab2688f78a489d3423ad125",
+    "titre": "IRON MAN 2",
+    "nationalité": "ETATS UNIS",
+    "sortie": "28/04/10",
+    "entrees": "2.58"
+} , {
+    "_id": "5ab2688f78a489d3423ad126",
+    "titre": "ROBIN DES BOIS",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "12/05/10",
+    "entrees": "2.39"
+} , {
+    "_id": "5ab2688f78a489d3423ad127",
+    "titre": "OCÉANS",
+    "nationalité": "FRANCE",
+    "sortie": "27/01/10",
+    "entrees": "2.85"
+} , {
+    "_id": "5ab2688f78a489d3423ad128",
+    "titre": "MONDE DE NARNIA - CHAPITRE 3 - L'ODYSSEE DU PASSEUR D'AURORE (LE)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "08/12/10",
+    "entrees": "2.32"
+} , {
+    "_id": "5ab2688f78a489d3423ad129",
+    "titre": "DRAGONS",
+    "nationalité": "ETATS UNIS",
+    "sortie": "31/03/10",
+    "entrees": "2.32"
+} , {
+    "_id": "5ab2688f78a489d3423ad12a",
+    "titre": "POTICHE",
+    "nationalité": "FRANCE / BELGIQUE",
+    "sortie": "10/11/10",
+    "entrees": "2.25"
+} , {
+    "_id": "5ab2688f78a489d3423ad12b",
+    "titre": "SHERLOCK HOLMES",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "03/02/10",
+    "entrees": "2.15"
+
+} , {
+    "_id": "5ab2688f78a489d3423ad12c",
+    "titre": "PRINCE OF PERSIA : LES SABLES DU TEMPS",
+    "nationalité": "ETATS UNIS",
+    "sortie": "26/05/10",
+    "entrees": "2.11"
+} , {
+    "_id": "5ab2688f78a489d3423ad12d",
+    "titre": "RAIPONCE",
+    "nationalité": "ETATS UNIS",
+    "sortie": "01/12/10",
+    "entrees": "3.17"
+} , {
+    "_id": "5ab2688f78a489d3423ad12e",
+    "titre": "NIGHT AND DAY",
+    "nationalité": "ETATS UNIS",
+    "sortie": "28/07/10",
+    "entrees": "1.76"
+} , {
+    "_id": "5ab2688f78a489d3423ad12f",
+    "titre": "CHOC DES TITANS (LE)",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "07/04/10",
+    "entrees": "1.87"
+} , {
+    "_id": "5ab2688f78a489d3423ad130",
+    "titre": "APPRENTI SORCIER (L')",
+    "nationalité": "ETATS UNIS",
+    "sortie": "11/08/10",
+    "entrees": "1.66"
+} , {
+    "_id": "5ab2688f78a489d3423ad131",
+    "titre": "EXPENDABLES : UNITE SPECIALE",
+    "nationalité": "ETATS UNIS",
+    "sortie": "18/08/10",
+    "entrees": "1.65"
+} , {
+    "_id": "5ab2688f78a489d3423ad132",
+    "titre": "ARTHUR 3 ET LA GUERRE DES DEUX MONDES",
+    "nationalité": "FRANCE",
+    "sortie": "13/10/10",
+    "entrees": "3.10"
+} , {
+    "_id": "5ab2688f78a489d3423ad133",
+    "titre": "MOI. MOCHE ET MECHANT",
+    "nationalité": "ETATS UNIS",
+    "sortie": "06/10/10",
+    "entrees": "3.01"
+} , {
+    "_id": "5ab2688f78a489d3423ad134",
+    "titre": "RAFLE (LA)",
+    "nationalité": "FRANCE / ALLEMAGNE / HONGRIE",
+    "sortie": "10/03/10",
+    "entrees": "2.88"
+} , {
+    "_id": "5ab2688f78a489d3423ad135",
+    "titre": "HARRY POTTER ET LES RELIQUES DE LA MORT (1ÈRE PARTIE)",
+    "nationalité": "GRANDE BRETAGNE",
+    "sortie": "24/11/10",
+    "entrees": "5.51"
+} , {
+    "_id": "5ab2688f78a489d3423ad136",
+    "titre": "SEX AND THE CITY 2",
+    "nationalité": "ETATS UNIS",
+    "sortie": "02/06/10",
+    "entrees": "1.31"
+} , {
+    "_id": "5ab2688f78a489d3423ad137",
+    "titre": "VOYAGE EXTRAORDINAIRE DE SAMY (LE)",
+    "nationalité": "Belgique",
+    "sortie": "11/08/10",
+    "entrees": "1.31"
+} , {
+    "_id": "5ab2688f78a489d3423ad138",
+    "titre": "THE KARATE KID",
+    "nationalité": "ETATS UNIS",
+    "sortie": "18/08/10",
+    "entrees": "1.28"
+} , {
+    "_id": "5ab2688f78a489d3423ad139",
+    "titre": "PERCY JACKSON LE VOLEUR DE FOUDRE",
+    "nationalité": "ETATS UNIS",
+    "sortie": "10/02/10",
+    "entrees": "1.23"
+} , {
+    "_id": "5ab2688f78a489d3423ad13a",
+    "titre": "FATAL",
+    "nationalité": "CANADA  / FRANCE",
+    "sortie": "16/06/10",
+    "entrees": "1.21"
+} , {
+    "_id": "5ab2688f78a489d3423ad13b",
+    "titre": "TETE EN FRICHE (LA)",
+    "nationalité": "FRANCE",
+    "sortie": "02/06/10",
+    "entrees": "1.27"
+} , {
+    "_id": "5ab2688f78a489d3423ad13c",
+    "titre": "PETITS MOUCHOIRS (LES)",
+    "nationalité": "FRANCE",
+    "sortie": "20/10/10",
+    "entrees": "5.32"
+} , {
+    "_id": "5ab2688f78a489d3423ad13d",
+    "titre": "GAINSBOURG (VIE HEROÏQUE)",
+    "nationalité": "FRANCE",
+    "sortie": "20/01/10",
+    "entrees": "1.20"
+} , {
+    "_id": "5ab2688f78a489d3423ad13e",
+    "titre": "AGENCE TOUS RISQUES (L')",
+    "nationalité": "ETATS UNIS",
+    "sortie": "16/06/10",
+    "entrees": "1.19"
+} , {
+    "_id": "5ab2688f78a489d3423ad13f",
+    "titre": "VALENTINE'S DAY",
+    "nationalité": "ETATS UNIS",
+    "sortie": "17/02/10",
+    "entrees": "1.19"
+} , {
+    "_id": "5ab2688f78a489d3423ad140",
+    "titre": "DERNIER MAITRE DE L'AIR (LE)",
+    "nationalité": "ETATS UNIS",
+    "sortie": "28/07/10",
+    "entrees": "1.18"
+} , {
+    "_id": "5ab2688f78a489d3423ad141",
+    "titre": "AVENTURES EXTRAORDINAIRES D'ADELE BLANC-SEC (LES)",
+    "nationalité": "FRANCE",
+    "sortie": "14/04/10",
+    "entrees": "1.63"
+} , {
+    "_id": "5ab2688f78a489d3423ad142",
+    "titre": "SALT",
+    "nationalité": "ETATS UNIS",
+    "sortie": "25/08/10",
+    "entrees": "1.47"
+} , {
+    "_id": "5ab2688f78a489d3423ad143",
+    "titre": "TOUT CE QUI BRILLE",
+    "nationalité": "FRANCE",
+    "sortie": "24/03/10",
+    "entrees": "1.42"
+} , {
+    "_id": "5ab2688f78a489d3423ad144",
+    "titre": "IMMORTEL (L')",
+    "nationalité": "FRANCE",
+    "sortie": "24/03/10",
+    "entrees": "1.13"
+} , {
+    "_id": "5ab2688f78a489d3423ad145",
+    "titre": "HOMME QUI VOULAIT VIVRE SA VIE (L')",
+    "nationalité": "FRANCE",
+    "sortie": "03/11/10",
+    "entrees": "1.18"
+} , {
+    "_id": "5ab2688f78a489d3423ad146",
+    "titre": "THE GHOST WRITER",
+    "nationalité": "FRANCE / ALLEMAGNE / GRANDE BRETAGNE",
+    "sortie": "03/03/10",
+    "entrees": "1.05"
+} , {
+    "_id": "5ab2688f78a489d3423ad147",
+    "titre": "AMOUR C'EST MIEUX A DEUX (L') (EX L'HOMME QUI MURMURAIT A L'OREILLE DES FEMMES)",
+    "nationalité": "FRANCE",
+    "sortie": "05/05/10",
+    "entrees": "1.12"
+} , {
+    "_id": "5ab2688f78a489d3423ad148",
+    "titre": "ITALIEN (L')",
+    "nationalité": "FRANCE",
+    "sortie": "14/07/10",
+    "entrees": "1.11"
+} , {
+    "_id": "5ab2688f78a489d3423ad149",
+    "titre": "THE TOWN",
+    "nationalité": "ETATS UNIS",
+    "sortie": "15/09/10",
+    "entrees": "1.08"
+} , {
+    "_id": "5ab2688f78a489d3423ad14a",
+    "titre": "MAC (LE)",
+    "nationalité": "FRANCE",
+    "sortie": "17/02/10",
+    "entrees": "1.45"
+} , {
+    "_id": "5ab2688f78a489d3423ad14b",
+    "titre": "THE SOCIAL NETWORK",
+    "nationalité": "ETATS UNIS",
+    "sortie": "13/10/10",
+    "entrees": "1.44"
+}
+]

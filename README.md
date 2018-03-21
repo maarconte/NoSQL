@@ -11,12 +11,18 @@ Create database
 ```sh
 $ use million
 ```
-Import CSV file
+
+Import Json
 ```sh
-$ tail -n +7 [file] | sed 's/;;;;//g' | tr ";" "\t" | sed "$d" | mongoimport --db million --collection films --type tsv --headerline
+mongoimport --db millions --collection films ./db_millions.json --jsonArray
 ```
 
 ## Requêtes
+- Les meilleures entrées des films américains
+```sh
+db.getCollection('films').find({nationalité:"ETATS UNIS"}).sort({"entrées (millions)": -1})
+```
+- Trouver les films qui ont fait plus de 5 millions d'entrées
 - Trier les films par date
 - Trier par nationalités
 - Nombre d'entrées par année
@@ -27,3 +33,11 @@ $ tail -n +7 [file] | sed 's/;;;;//g' | tr ";" "\t" | sed "$d" | mongoimport --d
 - Le nombre d'entrées en moyenne par mois
 - Le nombre de films sortis par mois
 - La moyenne de nombre de films sortis par mois
+
+var cursor = db.films.find(); 
+while (cursor.hasNext()) { 
+  var doc = cursor.next(); 
+  db.films.update({_id : doc._id}, {$set : {"entrée (millions)" : new NumberInt('doc.entrées (millions)') }});
+}
+
+db.films.updateMany({},{ $rename: { 'entrées (millions)': 'entrees'} } )
