@@ -9,7 +9,7 @@ mongo
 ## Install db
 Create database
 ```sh
-$ use million
+$ use millions
 ```
 
 Import Json
@@ -40,6 +40,9 @@ db.films.find({},{nationalité: 1, titre: 1}).sort({nationalité: 1})
 ```
 - Nombre d'entrées par année
 - Top 3 des films qui ont fait le plus d'entrées
+```sh
+db.films.find({}).sort({entrees: -1}).limit(3)
+```
 - Top 3 des films par pays 
 - Top 3 des nationalités des films qui ont le plus d'entrées
 - Le nombre d'entrées par mois et par an
