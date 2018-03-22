@@ -46,6 +46,13 @@ db.films.find({titre:/^HARRY POTTER/})
 db.films.updateMany({titre: /^HARRY POTTER/},{ $set: { genre: "Fantastique" }})
 ```
 - Ajouter le champ année à tous les films
+```sh
+db.films.updateMany({'sortie': /08$/}, {'$set': {'année': NumberInt(2008)}})
+```
+- Transformer un float en int
+```sh
+db.films.updateMany({'sortie': /08$/}, {'$set': {'année': NumberInt(0)}})
+```
 - Les meilleures entrées des films américains
 ```sh
 db.films.find({nationalité:"ETATS UNIS"}).sort({"entrees": -1})
@@ -54,7 +61,7 @@ db.films.find({nationalité:"ETATS UNIS"}).sort({"entrees": -1})
 ```sh
 db.films.find({entrees: {$gt: 4.99}}).sort({entrees: -1})
 ```
-- Trier les films par date
+- Films de 2008
 ```sh
 db.films.find({sortie: /08$/})
 ```
@@ -71,12 +78,7 @@ db.films.aggregate([{$group: { _id: "$nationalité", count: { $sum: 1}}},{$sort:
 ```sh
 db.films.find({}).sort({entrees: -1}).limit(3)
 ```
-- Top 3 des films par pays s
 - Top 3 des nationalités des films qui ont le plus d'entrées
 ```sh
 db.films.aggregate([{$group: { _id: "$nationalité", count: { $sum: 1}, countEntrees: {$sum: "$entrees"}}},{$sort:{count: -1}},{$limit: 3}]);
 ```
-- Le nombre d'entrées par mois et par an
-- Le nombre d'entrées en moyenne par mois
-- Le nombre de films sortis par mois
-- La moyenne de nombre de films sortis par mois
