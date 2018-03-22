@@ -30,7 +30,13 @@ db.films.find({entrees: {$exists: true}}).forEach(function(obj) {
 db.films.updateMany({"nationalité": "France"},{$set: {"nationalité": "FRANCE"}})
 ```
 - Afficher tous les Harry Potter
+```sh
+db.films.find({titre:/^HARRY POTTER/})
+```
 - Ajouter le genre "Fantastique" aux films Harry Potter
+```sh
+db.films.updateMany({titre: /^HARRY POTTER/},{ $set: { genre: "Fantastique" }})
+```
 - Ajouter le champ année à tous les films
 - Les meilleures entrées des films américains
 ```sh
@@ -50,7 +56,7 @@ db.films.find({},{nationalité: 1, titre: 1}).sort({nationalité: 1})
 ```sh
 db.films.find({}).sort({entrees: -1}).limit(3)
 ```
-- Top 3 des films par pays 
+- Top 3 des films par pays s
 - Top 3 des nationalités des films qui ont le plus d'entrées
 - Le nombre d'entrées par mois et par an
 - Le nombre d'entrées en moyenne par mois
