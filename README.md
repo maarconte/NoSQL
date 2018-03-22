@@ -38,7 +38,13 @@ db.films.aggregate( [ { $group : { _id : "$nationalité"} } ] )
 db.films.aggregate( [ { $group : { _id : "$nationalité", count:{$sum:1} } } ] )
 ```
 - Afficher tous les Harry Potter
+```sh
+db.films.find({titre:/^HARRY POTTER/})
+```
 - Ajouter le genre "Fantastique" aux films Harry Potter
+```sh
+db.films.updateMany({titre: /^HARRY POTTER/},{ $set: { genre: "Fantastique" }})
+```
 - Ajouter le champ année à tous les films
 - Les meilleures entrées des films américains
 ```sh
@@ -65,7 +71,7 @@ db.films.aggregate([{$group: { _id: "$nationalité", count: { $sum: 1}}},{$sort:
 ```sh
 db.films.find({}).sort({entrees: -1}).limit(3)
 ```
-- Top 3 des films par pays 
+- Top 3 des films par pays s
 - Top 3 des nationalités des films qui ont le plus d'entrées
 ```sh
 db.films.aggregate([{$group: { _id: "$nationalité", count: { $sum: 1}, countEntrees: {$sum: "$entrees"}}},{$sort:{count: -1}},{$limit: 3}]);
