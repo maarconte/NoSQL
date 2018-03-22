@@ -27,15 +27,15 @@ db.films.find({entrees: {$exists: true}}).forEach(function(obj) {
 ```
 - Transformer les noms de pays en minuscule en majuscule (France -> FRANCE)
 ```sh
-db.films.updateMany({"nationalité": "France"},{$set: {"nationalité": "FRANCE"}})
+db.films.updateMany({"nationalite": "France"},{$set: {"nationalite": "FRANCE"}})
 ```
-- Afficher la liste des nationalités
+- Afficher la liste des nationalites
 ```sh
-db.films.aggregate( [ { $group : { _id : "$nationalité"} } ] )
+db.films.aggregate( [ { $group : { _id : "$nationalite"} } ] )
 ```
-- Nombre de films par nationalités
+- Nombre de films par nationalites
 ```sh
-db.films.aggregate( [ { $group : { _id : "$nationalité", count:{$sum:1} } } ] )
+db.films.aggregate( [ { $group : { _id : "$nationalite", count:{$sum:1} } } ] )
 ```
 - Afficher tous les Harry Potter
 ```sh
@@ -45,17 +45,17 @@ db.films.find({titre:/^HARRY POTTER/})
 ```sh
 db.films.updateMany({titre: /^HARRY POTTER/},{ $set: { genre: "Fantastique" }})
 ```
-- Ajouter le champ année à tous les films
+- Ajouter le champ annee à tous les films
 ```sh
-db.films.updateMany({'sortie': /08$/}, {'$set': {'année': NumberInt(2008)}})
+db.films.updateMany({'sortie': /08$/}, {'$set': {'annee': NumberInt(2008)}})
 ```
 - Transformer un float en int
 ```sh
-db.films.updateMany({'sortie': /08$/}, {'$set': {'année': NumberInt(0)}})
+db.films.updateMany({'sortie': /08$/}, {'$set': {'annee': NumberInt(0)}})
 ```
 - Les meilleures entrées des films américains
 ```sh
-db.films.find({nationalité:"ETATS UNIS"}).sort({"entrees": -1})
+db.films.find({nationalite:"ETATS UNIS"}).sort({"entrees": -1})
 ```
 - Trouver les films qui ont fait plus de 5 millions d'entrées
 ```sh
@@ -65,20 +65,23 @@ db.films.find({entrees: {$gt: 4.99}}).sort({entrees: -1})
 ```sh
 db.films.find({sortie: /08$/})
 ```
-- Trier les films par nationalités
+- Trier les films par nationalites
 ```sh
-db.films.find({},{nationalité: 1, titre: 1}).sort({nationalité: 1})
+db.films.find({},{nationalite: 1, titre: 1}).sort({nationalite: 1})
 ```
-- Nombre d'entrées par année
-- Top 3 des nationalités les plus représentées
+- Nombre d'entrées par annee
 ```sh
-db.films.aggregate([{$group: { _id: "$nationalité", count: { $sum: 1}}},{$sort:{count: -1}}]);
+db.films.aggregate([{$group: { _id: "$annee", countFilms: { $sum: 1}, countEntrees: {$sum: "$entrees"}}},{$sort:{countEntrees: -1}}]);
+```
+- Top 3 des nationalites les plus représentées
+```sh
+db.films.aggregate([{$group: { _id: "$nationalite", count: { $sum: 1}}},{$sort:{count: -1}}]);
 ``` 
 - Top 3 des films qui ont fait le plus d'entrées
 ```sh
 db.films.find({}).sort({entrees: -1}).limit(3)
 ```
-- Top 3 des nationalités des films qui ont le plus d'entrées
+- Top 3 des nationalites des films qui ont le plus d'entrées
 ```sh
-db.films.aggregate([{$group: { _id: "$nationalité", count: { $sum: 1}, countEntrees: {$sum: "$entrees"}}},{$sort:{count: -1}},{$limit: 3}]);
+db.films.aggregate([{$group: { _id: "$nationalite", count: { $sum: 1}, countEntrees: {$sum: "$entrees"}}},{$sort:{count: -1}},{$limit: 3}]);
 ```
