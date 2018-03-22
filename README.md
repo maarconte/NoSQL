@@ -26,6 +26,9 @@ db.films.find({entrees: {$exists: true}}).forEach(function(obj) {
 });
 ```
 - Transformer les noms de pays en minuscule en majuscule (France -> FRANCE)
+```sh
+db.films.updateMany({"nationalité": "France"},{$set: {"nationalité": "FRANCE"}})
+```
 - Afficher tous les Harry Potter
 - Ajouter le genre "Fantastique" aux films Harry Potter
 - Ajouter le champ année à tous les films
