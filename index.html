@@ -19,15 +19,11 @@
                 <ul class="nav mb-3" id="pills-tab" role="tablist">
                     <li class="nav-item">
                         <a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home"
-                            aria-selected="true">Stats 1</a>
+                            aria-selected="true">Install</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile"
-                            aria-selected="false">Stats 2</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact" role="tab" aria-controls="pills-contact"
-                            aria-selected="false">Stats 3</a>
+                            aria-selected="false">Query</a>
                     </li>
                 </ul>
             </div>
@@ -40,262 +36,306 @@
         <div class="container">
             <div class="tab-content" id="pills-tabContent">
                 <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
-                    <div class="row">
-                        <div class="col-6">
-                            <div class="card">
-                                <h2 class="mb-3">Top 3</h2>
-                                    <code>
-                                           $ db.films.find({},{nationalité: 1, titre: 1}).sort({nationalité: 1})
-                                    </code>
-                                <table class="table table-sm">
-                                    <thead>
-                                        <tr>
-                                            <th scope="col">#</th>
-                                            <th scope="col" class="col-title">Titre</th>
-                                            <th scope="col">Nationalité</th>
-                                            <th scope="col">Date de sortie</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <th scope="row">1</th>
-                                            <td>Shrek</td>
-                                            <td>USA</td>
-                                            <td>2013</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">2</th>
-                                            <td>Avatar</td>
-                                            <td>USA</td>
-                                            <td>2014</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">3</th>
-                                            <td>Super 8</td>
-                                            <td>USA</td>
-                                            <td>2015</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
+                    <h2>Lancer Mongodb</h2>
+                    <code>
+                        $ sudo mongod
+                    </code>
+                    <br>
+                    <br>
+                    <code>
+                        $ mongo
+                    </code>
 
-                            </div>
-                        </div>
-                        <div class="col-6">
-                            <div class="card">
-                                <h2 class="mb-3">Top 3</h2>
-                                <code>
-                                        $ db.films.find({},{nationalité: 1, titre: 1}).sort({nationalité: 1})
-                                 </code>
-                                <table class="table table-sm">
-                                    <thead>
-                                        <tr>
-                                            <th scope="col">#</th>
-                                            <th scope="col" class="col-title">Titre</th>
-                                            <th scope="col">Nationalité</th>
-                                            <th scope="col">Date de sortie</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <th scope="row">1</th>
-                                            <td>Shrek</td>
-                                            <td>USA</td>
-                                            <td>2013</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">2</th>
-                                            <td>Avatar</td>
-                                            <td>USA</td>
-                                            <td>2014</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">3</th>
-                                            <td>Super 8</td>
-                                            <td>USA</td>
-                                            <td>2015</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-
-                            </div>
-                        </div>
-                        
-                    </div>
-                    <div class="row">
-                        <div class="col-6">
-                            <div class="card">
-                                <h2 class="mb-3">Top 3</h2>
-                                <code>
-                                        $ db.films.find({},{nationalité: 1, titre: 1}).sort({nationalité: 1})
-                                 </code>
-                                <table class="table table-sm">
-                                    <thead>
-                                        <tr>
-                                            <th scope="col">#</th>
-                                            <th scope="col" class="col-title">Titre</th>
-                                            <th scope="col">Nationalité</th>
-                                            <th scope="col">Date de sortie</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <th scope="row">1</th>
-                                            <td>Shrek</td>
-                                            <td>USA</td>
-                                            <td>2013</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">2</th>
-                                            <td>Avatar</td>
-                                            <td>USA</td>
-                                            <td>2014</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">3</th>
-                                            <td>Super 8</td>
-                                            <td>USA</td>
-                                            <td>2015</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-
-                            </div>
-                        </div>
-                        <div class="col-6">
-                            <div class="card">
-                                <h2 class="mb-3">Top 3</h2>
-                                <code>
-                                        $ db.films.find({},{nationalité: 1, titre: 1}).sort({nationalité: 1})
-                                 </code>
-                                <table class="table table-sm">
-                                    <thead>
-                                        <tr>
-                                            <th scope="col">#</th>
-                                            <th scope="col" class="col-title">Titre</th>
-                                            <th scope="col">Nationalité</th>
-                                            <th scope="col">Date de sortie</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <th scope="row">1</th>
-                                            <td>Shrek</td>
-                                            <td>USA</td>
-                                            <td>2013</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">2</th>
-                                            <td>Avatar</td>
-                                            <td>USA</td>
-                                            <td>2014</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">3</th>
-                                            <td>Super 8</td>
-                                            <td>USA</td>
-                                            <td>2015</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-
-                            </div>
-                        </div>
-                        
-                    </div>
-                    <div class="row">
-                        <div class="col-6">
-                            <div class="card">
-                                <h2 class="mb-3">Top 3</h2>
-                                <code>
-                                        $ db.films.find({},{nationalité: 1, titre: 1}).sort({nationalité: 1})
-                                 </code>
-                                <table class="table table-sm">
-                                    <thead>
-                                        <tr>
-                                            <th scope="col">#</th>
-                                            <th scope="col" class="col-title">Titre</th>
-                                            <th scope="col">Nationalité</th>
-                                            <th scope="col">Date de sortie</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <th scope="row">1</th>
-                                            <td>Shrek</td>
-                                            <td>USA</td>
-                                            <td>2013</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">2</th>
-                                            <td>Avatar</td>
-                                            <td>USA</td>
-                                            <td>2014</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">3</th>
-                                            <td>Super 8</td>
-                                            <td>USA</td>
-                                            <td>2015</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-
-                            </div>
-                        </div>
-                        <div class="col-6">
-                            <div class="card">
-                                <h2 class="mb-3">Top 3</h2>
-                                <code>
-                                        $ db.films.find({},{nationalité: 1, titre: 1}).sort({nationalité: 1})
-                                 </code>
-                                <table class="table table-sm">
-                                    <thead>
-                                        <tr>
-                                            <th scope="col">#</th>
-                                            <th scope="col" class="col-title">Titre</th>
-                                            <th scope="col">Nationalité</th>
-                                            <th scope="col">Date de sortie</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <th scope="row">1</th>
-                                            <td>Shrek</td>
-                                            <td>USA</td>
-                                            <td>2013</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">2</th>
-                                            <td>Avatar</td>
-                                            <td>USA</td>
-                                            <td>2014</td>
-                                        </tr>
-                                        <tr>
-                                            <th scope="row">3</th>
-                                            <td>Super 8</td>
-                                            <td>USA</td>
-                                            <td>2015</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-
-                            </div>
-                        </div>
-                        
-                    </div>
+                    <h2>Importer la base de données Json</h2>
+                    <code>
+                        $ mongoimport --db millions --collection films ./db_millions.json --jsonArray
+                    </code>
+                    <h2>Transformer les entrées de type string en float</h2>
+                    <code>
+                        $ db.films.find({entrees: {$exists: true}}).forEach(function(obj) { obj.entrees = parseFloat(obj.entrees); db.films.save(obj);
+                        });
+                    </code>
+                    <h2>Transformer les noms de pays en minuscule en majuscule (France -> FRANCE)</h2>
+                    <code>
+                        $ db.films.updateMany({"nationalite": "France"},{$set: {"nationalite": "FRANCE"}})
+                    </code>
                 </div>
                 <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
-                    Stats 2
-                </div>
-                <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
-                    Stats 3
+                    <div class="row">
+                        <div class="col-6">
+                            <div class="card">
+                                <h2 class="mb-3">Afficher la liste des nationalites</h2>
+                                <code>
+                                    $ db.films.aggregate( [ { $group : { _id : "$nationalite"} } ] )
+                                </code>
+                                <table class="table table-sm table-responsive">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">#</th>
+                                            <th scope="col">Nationalité</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <th scope="row">1</th>
+                                            <td>FRANCE / ALLEMAGNE / GRANDE BRETAGNE</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2</th>
+                                            <td>CANADA / FRANCE</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">3</th>
+                                            <td>Belgique</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                ...
+
+                            </div>
+                        </div>
+
+                        <div class="col-6">
+                            <div class="card">
+                                <h2 class="mb-3">Afficher la liste des nationalites</h2>
+                                <code>
+                                    $ db.films.aggregate( [ { $group : { _id : "$nationalite"} } ] )
+                                </code>
+                                <table class="table table-sm table-responsive">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">#</th>
+                                            <th scope="col">Nationalité</th>
+                                            <th scope="col">Count</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <th scope="row">1</th>
+                                            <td>FRANCE / ALLEMAGNE</td>
+                                            <td>1</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2</th>
+                                            <td>FRANCE / GRANDE BRETAGNE</td>
+                                            <td>5</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">3</th>
+                                            <td>NOUVELLE ZELANDE</td>
+                                            <td>1</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                ...
+
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-6">
+                            <div class="card">
+                                <h2 class="mb-3">Afficher tous les Harry Potter</h2>
+                                <code>
+                                    $ db.films.find({titre:/^HARRY POTTER/})
+                                </code>
+                                <table class="table table-sm table-responsive">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">#</th>
+                                            <th scope="col" class="col-title">Titre</th>
+                                            <th scope="col">Date de sortie</th>
+                                            <th scope="col">Entrées</th>
+                                            <th scope="col">Nationalité</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <th scope="row">1</th>
+                                            <td>HARRY POTTER ET LE PRISONNIER D'AZKABAN</td>
+                                            <td>02/06/04</td>
+                                            <td>7.08</td>
+                                            <td>GRANDE BRETAGNE</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2</th>
+                                            <td>HARRY POTTER ET LA COUPE DE FEU</td>
+                                            <td>30/11/05</td>
+                                            <td>7.04</td>
+                                            <td>GRANDE BRETAGNE</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">3</th>
+                                            <td>HARRY POTTER ET L'ORDRE DU PHOENIX</td>
+                                            <td>11/07/07</td>
+                                            <td>6.22</td>
+                                            <td>GRANDE BRETAGNE</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">4</th>
+                                            <td>HARRY POTTER ET LE PRINCE DE SANG-MELE</td>
+                                            <td>15/07/09</td>
+                                            <td>6.08</td>
+                                            <td>GRANDE BRETAGNE</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">5</th>
+                                            <td>HARRY POTTER ET LES RELIQUES DE LA MORT (1ÈRE PARTIE)</td>
+                                            <td>24/11/10</td>
+                                            <td>5.51</td>
+                                            <td>GRANDE BRETAGNE</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            <div class="card">
+                                <h2 class="mb-3">Ajouter le genre "Fantastique" aux films Harry Potter</h2>
+                                <code>
+                                    $ db.films.updateMany({titre: /^HARRY POTTER/},{ $set: { genre: "Fantastique" }})
+                                </code>
+                                <table class="table table-sm table-responsive">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">#</th>
+                                            <th scope="col" class="col-title">Titre</th>
+                                            <th scope="col">Date de sortie</th>
+                                            <th scope="col">Entrées</th>
+                                            <th scope="col">Nationalité</th>
+                                            <th scope="col">Genre</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <th scope="row">1</th>
+                                            <td>HARRY POTTER ET LE PRISONNIER D'AZKABAN</td>
+                                            <td>02/06/04</td>
+                                            <td>7.08</td>
+                                            <td>GRANDE BRETAGNE</td>
+                                            <td>Fantastique</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2</th>
+                                            <td>HARRY POTTER ET LA COUPE DE FEU</td>
+                                            <td>30/11/05</td>
+                                            <td>7.04</td>
+                                            <td>GRANDE BRETAGNE</td>
+                                            <td>Fantastique</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">3</th>
+                                            <td>HARRY POTTER ET L'ORDRE DU PHOENIX</td>
+                                            <td>11/07/07</td>
+                                            <td>6.22</td>
+                                            <td>GRANDE BRETAGNE</td>
+                                            <td>Fantastique</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">4</th>
+                                            <td>HARRY POTTER ET LE PRINCE DE SANG-MELE</td>
+                                            <td>15/07/09</td>
+                                            <td>6.08</td>
+                                            <td>GRANDE BRETAGNE</td>
+                                            <td>Fantastique</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">5</th>
+                                            <td>HARRY POTTER ET LES RELIQUES DE LA MORT (1ÈRE PARTIE)</td>
+                                            <td>24/11/10</td>
+                                            <td>5.51</td>
+                                            <td>GRANDE BRETAGNE</td>
+                                            <td>Fantastique</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-6">
+                            <div class="card">
+                                    <h2 class="mb-3">Ajouter le champ annee à tous les films</h2>
+                                    <code>
+                                        $ db.films.updateMany({'sortie': /08$/}, {'$set': {'annee': NumberInt(2008)}})
+                                    </code>
+                                    <table class="table table-sm table-responsive">
+                                            <thead>
+                                                <tr>
+                                                    <th scope="col">#</th>
+                                                    <th scope="col" class="col-title">Titre</th>
+                                                    <th scope="col">Date de sortie</th>
+                                                    <th scope="col">Entrées</th>
+                                                    <th scope="col">Année</th>
+                                                    <th scope="col">Nationalité</th>
+                                                    <th scope="col">Genre</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr>
+                                                    <th scope="row">1</th>
+                                                    <td>HARRY POTTER ET LE PRISONNIER D'AZKABAN</td>
+                                                    <td>02/06/04</td>
+                                                    <td>7.08</td>
+                                                    <td>2004</td>
+                                                    <td>GRANDE BRETAGNE</td>
+                                                    <td>Fantastique</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">2</th>
+                                                    <td>HARRY POTTER ET LA COUPE DE FEU</td>
+                                                    <td>30/11/05</td>
+                                                    <td>7.04</td>
+                                                    <td>2005</td>
+                                                    <td>GRANDE BRETAGNE</td>
+                                                    <td>Fantastique</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">3</th>
+                                                    <td>HARRY POTTER ET L'ORDRE DU PHOENIX</td>
+                                                    <td>11/07/07</td>
+                                                    <td>6.22</td>
+                                                    <td>2007</td>
+                                                    <td>GRANDE BRETAGNE</td>
+                                                    <td>Fantastique</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">4</th>
+                                                    <td>HARRY POTTER ET LE PRINCE DE SANG-MELE</td>
+                                                    <td>15/07/09</td>
+                                                    <td>6.08</td>
+                                                    <td>2009</td>
+                                                    <td>GRANDE BRETAGNE</td>
+                                                    <td>Fantastique</td>
+                                                </tr>
+                                                <tr>
+                                                    <th scope="row">5</th>
+                                                    <td>HARRY POTTER ET LES RELIQUES DE LA MORT (1ÈRE PARTIE)</td>
+                                                    <td>24/11/10</td>
+                                                    <td>5.51</td>
+                                                    <td>2010</td>
+                                                    <td>GRANDE BRETAGNE</td>
+                                                    <td>Fantastique</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                            </div>
+                            
+                        </div>
+                        <div class="col-6"></div>
+                    </div>
                 </div>
             </div>
-        </div>
 
     </main>
     <footer class="d-flex align-items-center justify-content-end">
-        <p>Coding Factory: Alexandre, Alexis, Mathilde, Mickael <a href="#"><i class="fab fa-github"></i></a> </p>
+        <p>Coding Factory: Alexandre, Alexis, Mathilde, Mickael
+            <a href="https://github.com/maarconte/NoSQL">
+                <i class="fab fa-github"></i>
+            </a>
+        </p>
     </footer>
 
     <!--   Scripts  -->
